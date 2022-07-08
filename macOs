@@ -1,0 +1,2062 @@
+From: <Saved by Tecno spark 6 air>
+Snapshot-Content-Location: https://www.mediawiki.org/wiki/Bugwrangler
+Subject: Bugwrangler - MediaWiki
+Date: Thu, 7 Jul 2022 21:51:15 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----"
+
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: text/html
+Content-ID: <frame-5DB1DCEF9613479705EC0E097A928131@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/wiki/Bugwrangler
+
+<!DOCTYPE html><html class="client-js" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Bugwrangler - MediaWiki</title>
+
+
+<link rel="stylesheet" href="https://www.mediawiki.org/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.discussionTools.init.styles%7Cext.translate%2CwikimediaBadges%7Cext.translate.edit.documentation.styles%7Cext.translate.tag.languages%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="https://www.mediawiki.org/w/load.php?lang=en&amp;modules=ext.gadget.CharInsertButtons%2Csite-styles&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="https://www.mediawiki.org/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.39.0-wmf.19">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Bugwrangler - MediaWiki">
+<meta property="og:type" content="website">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="https://m.mediawiki.org/wiki/Bugwrangler">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=edit">
+<link rel="apple-touch-icon" href="https://www.mediawiki.org/static/apple-touch/mediawiki.png">
+<link rel="shortcut icon" href="https://www.mediawiki.org/static/favicon/mediawiki.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="https://www.mediawiki.org/w/opensearch_desc.php" title="MediaWiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://www.mediawiki.org/w/api.php?action=rsd">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="canonical" href="https://www.mediawiki.org/wiki/Bugwrangler">
+<link rel="dns-prefetch" href="https://meta.wikimedia.org/">
+<link rel="dns-prefetch" href="https://login.wikimedia.org/">
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bugwrangler rootpage-Bugwrangler skin-vector-2022 action-view vector-toc-enabled"><div class="mw-page-container vector-layout-legacy">
+	<span id="top-page"></span>
+	<a class="mw-jump-link" href="https://www.mediawiki.org/wiki/Bugwrangler#content">Jump to content</a>
+	<div class="mw-page-container-inner ">
+
+<input type="checkbox" id="mw-sidebar-checkbox" class="mw-checkbox-hack-checkbox" checked="">
+
+<header class="mw-header">
+	<div class="mw-header-aside">
+	<label id="mw-sidebar-button" class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element" for="mw-sidebar-checkbox" role="button" aria-controls="mw-panel" data-event-name="ui.sidebar" tabindex="0" title="Main menu">
+		<span>Toggle sidebar</span>
+	</label>
+	
+<a href="https://www.mediawiki.org/wiki/MediaWiki" class="mw-logo">
+	<img class="mw-logo-icon" src="https://www.mediawiki.org/static/images/mobile/copyright/mediawiki.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="MediaWiki" src="https://www.mediawiki.org/static/images/mobile/copyright/mediawiki-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+	</span>
+</a>
+
+	</div>
+	<div class="mw-header-content">
+	
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="https://www.mediawiki.org/wiki/Special:Search" title="Search MediaWiki [alt-f]" accesskey="f" class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle">
+		<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="https://www.mediawiki.org/w/index.php" id="searchform" class="vector-search-box-form">
+			<div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-moved">
+				<input class="vector-search-box-input" type="search" name="search" placeholder="Search MediaWiki" aria-label="Search MediaWiki" autocapitalize="sentences" title="Search MediaWiki [alt-f]" accesskey="f" id="searchInput">
+				
+				<input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search">
+				<input id="searchButton" class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+	<nav class="vector-user-links" aria-label="Personal tools" role="navigation">
+	
+
+<div id="p-personal-more" class="mw-portlet mw-portlet-personal-more vector-user-menu-more vector-menu">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-uls" class="user-links-collapsible-item mw-list-item active"><a href="https://www.mediawiki.org/wiki/Bugwrangler#" class="uls-trigger mw-ui-button mw-ui-quiet"><span class="mw-ui-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span> <span>English</span></a></li>
+	<li id="p-createaccount" class="user-links-collapsible-item">
+		<a href="https://www.mediawiki.org/w/index.php?title=Special:CreateAccount&amp;returnto=Bugwrangler" class="user-links-collapsible-item mw-ui-button mw-ui-quiet" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a>
+	</li>
+</ul>
+		
+	</div>
+</div>
+
+	
+
+<div id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out vector-menu vector-menu-dropdown" title="More options">
+	<input type="checkbox" id="p-personal-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-personal" class="vector-menu-checkbox">
+	<label id="p-personal-label" for="p-personal-checkbox" class="vector-menu-heading  mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis">
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content">
+		<div class="vector-user-menu-create-account"><a href="https://www.mediawiki.org/w/index.php?title=Special:CreateAccount&amp;returnto=Bugwrangler" class="vector-menu-content-item user-links-collapsible-item" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></div>
+<div class="vector-user-menu-login"><a href="https://www.mediawiki.org/w/index.php?title=Special:UserLogin&amp;returnto=Bugwrangler" class="vector-menu-content-item vector-menu-content-item-login" title="You are encouraged to log in; however, it is not mandatory [alt-o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></div>
+<div class="vector-user-menu-anon-editor">
+	<p>
+		Pages for logged out editors <a href="https://www.mediawiki.org/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</p>
+</div>
+
+		<ul class="vector-menu-content-list"><li id="pt-anontalk" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyTalk" title="Discussion about edits from this IP address [alt-n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyContributions" title="A list of edits made from this IP address [alt-y]" accesskey="y"><span>Contributions</span></a></li></ul>
+		
+	</div>
+</div>
+
+</nav>
+
+	</div>
+</header>
+
+<div class="mw-workspace-container vector-sidebar-container vector-sidebar-container-no-toc">
+	
+	<div id="mw-navigation">
+		
+
+<nav id="mw-panel" class="mw-sidebar" aria-label="Site" role="navigation">
+	
+
+<div id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal">
+	<p id="p-navigation-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Navigation</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" title="Visit the main page [alt-z]" accesskey="z"><span>Main page</span></a></li><li id="n-mw-download" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Download"><span>Get MediaWiki</span></a></li><li id="n-mw-extensions" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Extensions"><span>Get extensions</span></a></li><li id="n-blog-text" class="mw-list-item"><a href="https://techblog.wikimedia.org/"><span>Tech blog</span></a></li><li id="n-mw-contribute" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute"><span>Contribute</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+
+<div id="p-support" class="mw-portlet mw-portlet-support vector-menu vector-menu-portal portal">
+	<p id="p-support-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Support</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out"><span>User help</span></a></li><li id="n-mw-faq" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ"><span>FAQ</span></a></li><li id="n-mw-manual" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Contents"><span>Technical manual</span></a></li><li id="n-mw-supportdesk" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Project:Support_desk"><span>Support desk</span></a></li><li id="n-mw-communication" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Communication"><span>Communication</span></a></li></ul>
+		
+	</div>
+</div>
+
+
+<div id="p-development" class="mw-portlet mw-portlet-development vector-menu vector-menu-portal portal">
+	<p id="p-development-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Development</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mw-developerportal" class="mw-list-item"><a href="https://developer.wikimedia.org/"><span>Developer portal</span></a></li><li id="n-svn-statistics" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Development_statistics"><span>Code statistics</span></a></li></ul>
+		
+	</div>
+</div>
+
+
+<div id="p-MediaWiki.org" class="mw-portlet mw-portlet-MediaWiki_org vector-menu vector-menu-portal portal">
+	<p id="p-MediaWiki.org-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">MediaWiki.org</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-portal" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Project:Help" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [alt-r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-mw-translate" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:LanguageStats"><span>Translate content</span></a></li><li id="n-randompage" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:Random" title="Load a random page [alt-x]" accesskey="x"><span>Random page</span></a></li><li id="n-mw-discussion" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Project:Village_Pump"><span>Village pump</span></a></li><li id="n-Sandboxlink-portlet-label" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Project:Sandbox"><span>Sandbox</span></a></li></ul>
+		
+	</div>
+</div>
+
+
+<div id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal">
+	<p id="p-tb-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Tools</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:WhatLinksHere/Bugwrangler" title="A list of all wiki pages that link here [alt-j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:RecentChangesLinked/Bugwrangler" rel="nofollow" title="Recent changes in pages linked from this page [alt-k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [alt-u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:SpecialPages" title="A list of all special pages [alt-q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;oldid=4340328" title="Permanent link to this revision of the page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Special:CiteThisPage&amp;page=Bugwrangler&amp;id=4340328&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li></ul>
+		
+	</div>
+</div>
+
+
+<div id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal">
+	<p id="p-coll-print_export-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">Print/export</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bugwrangler"><span>Create a book</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Special:DownloadAsPdf&amp;page=Bugwrangler&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;printable=yes" title="Printable version of this page [alt-p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+
+<div id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal">
+	<p id="p-lang-label" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">In other languages</span>
+	</p>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=mediawikiwiki&amp;page=Bugwrangler" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</div>
+
+	
+</nav>
+
+	</div>
+	<div class="mw-table-of-contents-container mw-sticky-header-element">
+		
+	</div>
+ <!-- close .vector-sidebar-container -->
+	<div class="mw-content-container">
+<main id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><div id="centralNotice"></div><!-- CentralNotice --></div>
+
+	<header class="mw-body-header">
+	
+	        <div class="mw-indicators">
+        </div>
+
+	    <h1 id="firstHeading" class="firstHeading mw-first-heading">Bugwrangler</h1>
+	</header>
+
+		<nav class="vector-article-toolbar" aria-label="Tools" role="navigation">
+			<div class="mw-article-toolbar-container">
+				<div id="left-navigation">
+					
+
+<div id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="https://www.mediawiki.org/wiki/Bugwrangler" title="View the content page [alt-c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Talk:Bugwrangler" rel="discussion" title="Discussion about the content page [alt-t]" accesskey="t"><span>Discussion</span></a></li></ul>
+		
+	</div>
+</div>
+
+					
+
+<div id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown">
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-label="Change language variant">
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</div>
+
+				</div>
+				<div id="right-navigation" class="vector-collapsible ">
+					
+
+<div id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs">
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="https://www.mediawiki.org/wiki/Bugwrangler"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=edit" title="Edit this page [alt-e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=history" title="Past revisions of this page [alt-h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+					
+
+<div id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown vector-has-collapsible-items" title="More options">
+	<input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox">
+	<label id="p-cactions-label" for="p-cactions-checkbox" class="vector-menu-heading ">
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="https://www.mediawiki.org/wiki/Bugwrangler"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+				</div>
+			</div>
+		</nav>
+
+	<div id="bodyContent" class="vector-body" data-mw-ve-target-container="">
+		<div class="mw-body-subheader">
+		
+		    <div id="siteSub" class="noprint">From mediawiki.org</div>
+		</div>		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-pt-translate-header noprint nomobile" dir="ltr" lang="en"><a href="https://www.mediawiki.org/w/index.php?title=Special:Translate&amp;group=page-Bugwrangler&amp;action=page&amp;filter=" title="Special:Translate">Translate this page</a></div><div class="mw-parser-output"><div class="mw-pt-languages noprint" lang="en" dir="ltr"><div class="mw-pt-languages-label">Other languages:</div><ul class="mw-pt-languages-list"><li><a href="https://www.mediawiki.org/wiki/Bugwrangler/nan" class="mw-pt-progress mw-pt-progress--stub" title="Bugwrangler (17% translated)" lang="nan" dir="ltr">Bân-lâm-gú</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/de" class="mw-pt-progress mw-pt-progress--low" title="Bugwrangler (28% translated)" lang="de" dir="ltr">Deutsch</a></li>
+<li><span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete" lang="en" dir="ltr">English</span></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/tr" class="mw-pt-progress mw-pt-progress--complete" title="Bugwrangler (100% translated)" lang="tr" dir="ltr">Türkçe</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/it" class="mw-pt-progress mw-pt-progress--complete" title="Cacciatore di bug (100% translated)" lang="it" dir="ltr">italiano</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/pl" class="mw-pt-progress mw-pt-progress--stub" title="Bugwrangler/pl (11% translated)" lang="pl" dir="ltr">polski</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/pt-br" class="mw-pt-progress mw-pt-progress--complete" title="Bugwrangler (100% translated)" lang="pt-BR" dir="ltr">português do Brasil</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/fi" class="mw-pt-progress mw-pt-progress--med" title="Bugwrangler (56% translated)" lang="fi" dir="ltr">suomi</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/cs" class="mw-pt-progress mw-pt-progress--complete" title="Bugwrangler (100% translated)" lang="cs" dir="ltr">čeština</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/uk" class="mw-pt-progress mw-pt-progress--complete" title="Bugwrangler (100% translated)" lang="uk" dir="ltr">українська</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/ar" class="mw-pt-progress mw-pt-progress--complete" title="راعي المشاكل التقنية (100% translated)" lang="ar" dir="rtl">العربية</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/zh" class="mw-pt-progress mw-pt-progress--complete" title="Bugwrangler (100% translated)" lang="zh" dir="ltr">中文</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Bugwrangler/ja" class="mw-pt-progress mw-pt-progress--stub" title="バグラングラー (11% translated)" lang="ja" dir="ltr">日本語</a></li></ul></div>
+<p>The <b>bugwrangler</b> or <b>bugmaster</b> is a <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Foundation" title="Special:MyLanguage/Wikimedia Foundation">Wikimedia Foundation</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Wikimedia_Foundation" class="mw-redirect" title="Wikimedia Foundation"> </a></span> employee who coordinates <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/bug_management" title="Special:MyLanguage/bug management">bug management</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Bug_management" title="Bug management"> </a></span>.
+The current bugwrangler is <a href="https://www.mediawiki.org/wiki/User:AKlapper_(WMF)" title="User:AKlapper (WMF)">Andre Klapper</a><sup id="cite_ref-1" class="reference"><a href="https://www.mediawiki.org/wiki/Bugwrangler#cite_note-1">[1]</a></sup>.
+His duties are to, among other things:
+</p>
+<ul><li>Review and assess bug reports and enhancement requests; close reports where possible; help finding an appropriate assignee for urgent/important reports</li>
+<li>Grow a community of volunteer bug responders who help transfer issue reports from other <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/communication" title="Special:MyLanguage/communication">Communication</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Communication" title="Communication"> </a></span> channels to the bug tracker, and who share bug management responsibilities</li>
+<li>Clean up and organize the existing bug tracker backlog, identifying duplicated and outdated bugs</li>
+<li>Work with members of the community who report bugs to clarify any ambiguity in the bug descriptions and get all the information required to reproduce the bugs</li>
+<li>Work with product managers and developers to <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Project_management#Priority_levels" title="Special:MyLanguage/Phabricator/Project management">prioritize</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Phabricator/Project_management#Priority_levels" title="Phabricator/Project management"> </a></span><sup id="cite_ref-2" class="reference"><a href="https://www.mediawiki.org/wiki/Bugwrangler#cite_note-2">[2]</a></sup>, categorize <s>and <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Project_management#Assigning_tasks" title="Special:MyLanguage/Phabricator/Project management">assign</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Phabricator/Project_management#Assigning_tasks" title="Phabricator/Project management"> </a></span></s> tasks based on MediaWiki features and extensions; Identify and escalate urgent/important issues quickly</li>
+<li>Manage expectations about deployment of fixes and help communicating the status of major bugs to bug reporters</li>
+<li>Work with product managers and developers to improve the process of bug submission and <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Bug_management/Bug_report_life_cycle" title="Special:MyLanguage/Bug management/Bug report life cycle">bug status workflow</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Bug_management/Bug_report_life_cycle" title="Bug management/Bug report life cycle"> </a></span></li>
+<li>Communicate widely and frequently (while being transparent) via mailing lists, IRC, wikis, and bug tracker comments</li>
+<li>Reactive bug tracker maintenance (such as adjusting <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help/Herald_Rules" title="Special:MyLanguage/Phabricator/Help/Herald Rules">Herald rules</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Phabricator/Help/Herald_Rules" title="Phabricator/Help/Herald Rules"> </a></span>, <a href="https://phabricator.wikimedia.org/tag/wmf-nda-requests/" class="extiw" title="phab:tag/wmf-nda-requests/">processing NDA requests</a>, <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Creating_and_renaming_projects" title="Special:MyLanguage/Phabricator/Creating and renaming projects">creating projects</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Phabricator/Creating_and_renaming_projects" title="Phabricator/Creating and renaming projects"> </a></span> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Creating_and_renaming_projects#Restricting_access_via_Space_policies" title="Special:MyLanguage/Phabricator/Creating and renaming projects">spaces</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Phabricator/Creating_and_renaming_projects#Restricting_access_via_Space_policies" title="Phabricator/Creating and renaming projects"> </a></span>, renaming or disabling Phabricator user accounts, updating Phabricator documentation, <a href="https://www.mediawiki.org/wiki/Talk:Phabricator/Help" title="Talk:Phabricator/Help">general support requests</a>, etc.)</li></ul>
+<p><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Bug_management/How_to_triage" title="Special:MyLanguage/Bug management/How to triage">Sorting and solving bug reports</a><span style="display:none"><a href="https://www.mediawiki.org/wiki/Bug_management/How_to_triage" title="Bug management/How to triage"> </a></span> is a collaborative effort by users and developers of the community together with the bugwrangler.
+</p><p>As the bugwrangler cannot support every single project and task in Phabricator to the same extent, maintainers and teams are more than welcome to contact the bugwrangler to express support requests for managing their tasks.
+</p>
+<h2 class="ext-discussiontools-init-section"><span class="mw-headline" id="History" data-mw-comment="{&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-History&quot;,&quot;replies&quot;:[],&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-&quot;}"><span data-mw-comment-start="" id="h-History"></span>History<span data-mw-comment-end="h-History"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>WMF's first bugmaster was <a href="https://www.mediawiki.org/wiki/User:MarkAHershberger" title="User:MarkAHershberger">User:MarkAHershberger</a>.
+</p>
+<h2 class="ext-discussiontools-init-section"><span class="mw-headline" id="References" data-mw-comment="{&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-References&quot;,&quot;replies&quot;:[],&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-&quot;}"><span data-mw-comment-start="" id="h-References"></span>References<span data-mw-comment-end="h-References"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="https://www.mediawiki.org/wiki/Bugwrangler#cite_ref-1">↑</a></span> <span class="reference-text"><a href="https://foundation.wikimedia.org/wiki/User:AKlapper" class="extiw" title="foundation:User:AKlapper">foundation:User:AKlapper</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="https://www.mediawiki.org/wiki/Bugwrangler#cite_ref-2">↑</a></span> <span class="reference-text">see <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Bug_management/Development_prioritization" title="Special:MyLanguage/Bug management/Development prioritization">Bug management/Development prioritization</a> to avoid wrong expectations</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20220705113649
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+DiscussionTools time usage: 0.011 seconds
+CPU time usage: 0.358 seconds
+Real time usage: 0.510 seconds
+Preprocessor visited node count: 643/1000000
+Post‐expand include size: 3583/2097152 bytes
+Template argument size: 2037/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3000/5000000 bytes
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 1140750/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  128.212      1 -total
+ 90.03%  115.427     10 Template:Ll
+ 46.18%   59.213     20 Template:Translatable
+ 36.77%   47.147     10 Template:Pagelang
+  6.19%    7.940      1 Template:TNTN
+  5.99%    7.683      1 Template:Reflist
+  3.98%    5.106      1 Translations:Communication/Page_display_title/en
+-->
+
+<!-- Saved in parser cache with key mediawikiwiki:pcache:idhash:181808-0!canonical and timestamp 20220705113648 and revision id 4340328.
+ -->
+</div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;oldid=4340328">https://www.mediawiki.org/w/index.php?title=Bugwrangler&amp;oldid=4340328</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="https://www.mediawiki.org/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="https://www.mediawiki.org/wiki/Category:Bugzilla" title="Category:Bugzilla">Bugzilla</a></li><li><a href="https://www.mediawiki.org/wiki/Category:Phabricator" title="Category:Phabricator">Phabricator</a></li></ul></div></div>
+	</div>
+
+
+</main>
+
+	</div> 
+</div> <!-- close .vector-sidebar-container -->
+
+<div class="mw-workspace-container mw-footer-container">
+	<div class="mw-content-container">
+		
+<footer id="footer" class="mw-footer" role="contentinfo">
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 12 January 2021, at 14:07.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.
+See <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="https://www.mediawiki.org/wiki/Project:About" title="Project:About">About MediaWiki.org</a></li>
+	<li id="footer-places-disclaimer"><a href="https://www.mediawiki.org/wiki/Project:General_disclaimer" title="Project:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-mobileview"><a href="https://m.mediawiki.org/w/index.php?title=Bugwrangler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org/">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/www.mediawiki.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="https://www.mediawiki.org/static/images/footer/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="https://www.mediawiki.org/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+	</div>
+</div>
+	</div> 
+</div> 
+
+
+
+</body></html>
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.discussionTools.init.styles%7Cext.translate%2CwikimediaBadges%7Cext.translate.edit.documentation.styles%7Cext.translate.tag.languages%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022
+
+@charset "utf-8";
+
+.mw-cite-backlink, .cite-accessibility-label { user-select: none; }
+
+.mw-references-columns { column-width: 30em; margin-top: 0.3em; }
+
+.mw-parser-output .mw-references-columns .references { margin-top: 0px; }
+
+.mw-references-columns li { break-inside: avoid-column; }
+
+ol.references { counter-reset: mw-ref-extends-parent 0 list-item 0; }
+
+ol.references > li { counter-increment: mw-ref-extends-parent 1; counter-reset: mw-ref-extends-child 0; }
+
+ol.references .mw-extended-references { list-style: none; margin-left: 2em; }
+
+.mw-extended-references > li::before { counter-increment: mw-ref-extends-child 1; content: counter(mw-ref-extends-parent) "." counter(mw-ref-extends-child) ". "; }
+
+sup.reference { unicode-bidi: isolate; white-space: nowrap; font-weight: normal; font-style: normal; }
+
+ol.references li:target, sup.reference:target { background-color: rgb(234, 243, 255); }
+
+.mw-ext-cite-error { font-weight: bold; unicode-bidi: embed; }
+
+.mw-ext-cite-error code { background-color: transparent; color: inherit; padding: 1px 2px; }
+
+.mw-cite-dir-ltr .reference-text { direction: ltr; unicode-bidi: embed; }
+
+.mw-cite-dir-rtl .reference-text { direction: rtl; unicode-bidi: embed; }
+
+@media print {
+  .mw-cite-backlink { display: none; }
+}
+
+span[data-mw-comment-start] { position: relative; top: -1em; }
+
+.ext-discussiontools-init-replylink-buttons { user-select: none; display: none; text-indent: 0px; }
+
+.mw-content-ltr .ext-discussiontools-init-replylink-buttons { margin-left: 0.5em; }
+
+.mw-content-rtl .ext-discussiontools-init-replylink-buttons { margin-right: 0.5em; }
+
+.ext-discussiontools-replytool-enabled .ext-discussiontools-init-replylink-buttons { display: inline-flex; }
+
+.client-nojs .ext-discussiontools-replytool-enabled .ext-discussiontools-init-replylink-buttons { display: none; }
+
+.talk-overlay .ext-discussiontools-init-replylink-buttons { display: none; }
+
+.ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-reply { cursor: pointer; }
+
+.ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-bracket { color: rgb(84, 89, 93); }
+
+.mw-content-ltr .ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-bracket:first-of-type, .mw-content-rtl .ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-bracket:not(:first-of-type) { margin-right: 0.25em; }
+
+.mw-content-ltr .ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-bracket:not(:first-of-type), .mw-content-rtl .ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-bracket:first-of-type { margin-left: 0.25em; }
+
+.ext-discussiontools-init-replylink-buttons .ext-discussiontools-init-replylink-divider { color: rgb(84, 89, 93); white-space: pre; }
+
+.ext-discussiontools-init-replylink-open .ext-discussiontools-init-replylink-buttons > .ext-discussiontools-init-replylink-reply { color: rgb(114, 119, 125); pointer-events: none; }
+
+.ext-discussiontools-init-replylink-buttons.ext-discussiontools-init-replylink-active > .ext-discussiontools-init-replylink-reply { color: rgb(32, 33, 34); text-decoration: none; }
+
+@media print {
+  .ext-discussiontools-init-replylink-buttons { display: none; }
+}
+
+.ext-discussiontools-init-noMarker { list-style: none; }
+
+.ext-discussiontools-init-highlight { position: absolute; pointer-events: none; opacity: 0; }
+
+@supports (mix-blend-mode:darken) {
+  .ext-discussiontools-init-highlight { mix-blend-mode: darken; transform: translateZ(0px); }
+}
+
+.ext-discussiontools-init-highlight-fadein { opacity: 1; }
+
+.ext-discussiontools-init-highlight-fadeout { opacity: 0; transition: opacity 250ms ease-out 0s; }
+
+.ext-discussiontools-init-publishedcomment { background-color: rgba(255, 198, 60, 0.5); }
+
+@supports (mix-blend-mode:darken) {
+  .ext-discussiontools-init-publishedcomment { background-color: rgb(255, 226, 158); }
+}
+
+.ext-discussiontools-init-targetcomment { background-color: rgba(216, 235, 255, 0.5); }
+
+@supports (mix-blend-mode:darken) {
+  .ext-discussiontools-init-targetcomment { background-color: rgb(234, 243, 255); }
+}
+
+.ext-discussiontools-init-new-topic { margin-top: 1em; }
+
+.ext-discussiontools-init-section-subscribe { display: none; }
+
+.ext-discussiontools-topicsubscription-enabled .ext-discussiontools-init-section-subscribe { display: block; }
+
+.mw-content-ltr .ext-discussiontools-init-section-subscribe { float: right; }
+
+.mw-content-rtl .ext-discussiontools-init-section-subscribe { float: left; }
+
+.ext-discussiontools-init-section-subscribe.mw-editsection-like { user-select: none; margin-top: 0.7em; }
+
+.skin-minerva .ext-discussiontools-init-section-subscribe { display: none; }
+
+.ext-discussiontools-init-section-subscribe-bracket { color: rgb(84, 89, 93); }
+
+.mw-content-ltr .ext-discussiontools-init-section-subscribe-bracket:first-of-type, .mw-content-rtl .ext-discussiontools-init-section-subscribe-bracket:not(:first-of-type) { margin-right: 0.25em; }
+
+.mw-content-ltr .ext-discussiontools-init-section-subscribe-bracket:not(:first-of-type), .mw-content-rtl .ext-discussiontools-init-section-subscribe-bracket:first-of-type { margin-left: 0.25em; }
+
+.ext-discussiontools-init-section-subscribe-link.ext-discussiontools-init-section-subscribe-link-pending { color: rgb(114, 119, 125); pointer-events: none; }
+
+.ext-discussiontools-init-section-subscribeButton.oo-ui-buttonElement { display: none; }
+
+.ext-discussiontools-topicsubscription-enabled .ext-discussiontools-init-section-subscribeButton.oo-ui-buttonElement { display: inline-block; }
+
+.ext-discussiontools-init-section-ellipsisButton.oo-ui-buttonElement, .ext-discussiontools-init-section-bar, .ext-discussiontools-init-readAsWikiPage { display: none; }
+
+.ext-discussiontools-visualenhancements-enabled { }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section { clear: both; margin: 1em 0px 0px; padding: 0.5em 0px; font-weight: bold; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(162, 169, 177); font-family: sans-serif !important; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section:first-child { border-top: 0px; margin-top: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-subscribe { display: none; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-bar { font-size: 14px; margin-top: 5px; display: flex; direction: ltr; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-bar .oo-ui-buttonElement > .oo-ui-buttonElement-button { font-weight: normal; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-metadata { display: flex; flex-wrap: wrap; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-metaitem { font-weight: normal; color: rgb(102, 102, 102); margin: 7px 0px; }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-metaitem + .ext-discussiontools-init-section-metaitem { margin-left: 12px; padding-left: 12px; border-left: 1px solid rgb(162, 169, 177); }
+
+.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-section-actions { margin-left: auto; margin-right: -6px; }
+
+.ext-discussiontools-visualenhancements-enabled mw\:tocplace:first-child + .ext-discussiontools-init-section { border-top: 0px; margin-top: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled h2.ext-discussiontools-ui-newTopic-sectionTitle .oo-ui-inputWidget-input { font-weight: bold; font-family: sans-serif; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section { flex-wrap: wrap; margin: 12px 0px; padding-bottom: 0px; -webkit-tap-highlight-color: transparent; border-top: 1px solid rgb(234, 236, 240); border-bottom: 0px !important; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section > .mw-headline { width: auto; flex-grow: 1; flex-basis: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section:first-child { border-top: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-bar { width: 100%; flex-wrap: wrap; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-actions { width: 100%; margin-left: 0px; padding-left: 24px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-actions > .oo-ui-buttonElement-frameless:first-child { margin-left: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section.section-heading .ext-discussiontools-init-section-actions { display: none; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-subscribeButton { margin-left: 0px; margin-right: 8px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-subscribeButton > .oo-ui-buttonElement-button { margin-left: -0.428571em; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-ellipsisButton { display: inline-block; font-size: 14px; margin-right: -5px; height: 32px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-metadata { width: 100%; padding-left: 24px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-authorCountLabel, .ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section-commentCountLabel { display: none; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section.open-block .ext-discussiontools-init-section-actions { display: block; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section .mw-editsection { display: none !important; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-minerva .ext-discussiontools-init-section .mw-ui-icon + span { margin-left: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-monobook .ext-discussiontools-init-section-bar { font-size: 12px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-monobook .ext-discussiontools-init-section-actions { margin-right: 0px; }
+
+.ext-discussiontools-visualenhancements-enabled.skin-monobook .ext-discussiontools-init-section-subscribeButton { margin-right: 0px; }
+
+.ext-discussiontools-emptystate { display: flex; justify-content: space-between; }
+
+.skin-minerva .ext-discussiontools-emptystate { margin-top: 1em; }
+
+.ext-discussiontools-emptystate > img { width: 250px; }
+
+@media (max-width: 719px) {
+  .ext-discussiontools-emptystate { display: block; }
+  .ext-discussiontools-emptystate .oo-ui-buttonElement { display: block; text-align: center; }
+  .ext-discussiontools-emptystate .oo-ui-buttonElement > a { width: 80%; }
+  .ext-discussiontools-emptystate > img { display: none; }
+}
+
+.ext-discussiontools-init-replylink-open .ext-discussiontools-emptystate, .ext-discussiontools-init-replylink-open > .mw-message-box-warning { display: none; }
+
+.ext-discussiontools-autotopicsubpopup { position: absolute; left: 0px; right: 0px; }
+
+.oo-ui-popupWidget.ext-discussiontools-autotopicsubpopup { opacity: 0; transform: translate3d(0px, -20px, 0px); transition: opacity 0.2s ease 0s, transform 0.2s ease 0s; }
+
+.oo-ui-popupWidget.ext-discussiontools-autotopicsubpopup-fadein { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+
+.ext-discussiontools-autotopicsubpopup .oo-ui-popupWidget-popup { padding: 1.5em; box-sizing: border-box; position: absolute; left: 0px; right: 0px; margin: 0px auto; bottom: 3em; }
+
+.ext-discussiontools-autotopicsubpopup .oo-ui-popupWidget-popup.ext-discussiontools-autotopicsubpopup-overlap { top: -1em; bottom: auto; }
+
+.ext-discussiontools-autotopicsubpopup-title { font-weight: bold; font-size: 1.2em; display: block; }
+
+.ext-discussiontools-autotopicsubpopup-image { background: url("data:image/svg+xml,%3Csvg width=%22200%22 height=%22200%22 viewBox=%220 0 200 200%22 fill=%22none%22 xmlns=%22http://www.w3.org/2000/svg%22%3E %3Crect width=%22200%22 height=%22200%22 fill=%22white%22/%3E %3Cg filter=%22url%28%23filter0_d%29%22%3E %3Cmask id=%22mask0%22 style=%22mask-type:alpha%22 maskUnits=%22userSpaceOnUse%22 x=%2225%22 y=%2225%22 width=%22150%22 height=%22150%22%3E %3Ccircle cx=%22100%22 cy=%22100%22 r=%2275%22 fill=%22%23EAF3FF%22/%3E %3C/mask%3E %3Cg mask=%22url%28%23mask0%29%22%3E %3Cg filter=%22url%28%23filter1_d%29%22%3E %3Ccircle cx=%22100%22 cy=%22100%22 r=%2275%22 fill=%22%23EAF3FF%22/%3E %3C/g%3E %3Cg filter=%22url%28%23filter2_d%29%22%3E %3Crect x=%2223%22 y=%2265%22 width=%22114%22 height=%22126%22 rx=%222%22 fill=%22white%22/%3E %3C/g%3E %3Cpath fill-rule=%22evenodd%22 clip-rule=%22evenodd%22 d=%22M110.35 86.1H60.65C56.7288 86.1 53.55 88.8758 53.55 92.3V135.7C53.55 139.124 56.7288 141.9 60.65 141.9H110.35C114.271 141.9 117.45 139.124 117.45 135.7V92.3C117.45 88.8758 114.271 86.1 110.35 86.1ZM110.35 123.3H96.15L92.6 129.5H78.4L74.85 123.3H60.65V92.3H110.35V123.3Z%22 fill=%22%233366CC%22/%3E %3Cpath d=%22M113.776 46C115.503 46 116.904 47.4003 116.904 49.1277V67.894C116.904 69.6214 115.503 71.0217 113.776 71.0217C112.048 71.0217 110.648 69.6214 110.648 67.894V49.1277C110.648 47.4003 112.048 46 113.776 46ZM141.437 57.4357C142.237 57.4357 143.025 57.7536 143.636 58.3642C144.857 59.5858 144.857 61.5901 143.636 62.8115L132.591 73.8562C131.37 75.0777 129.365 75.0774 128.144 73.8562C126.922 72.6347 126.923 70.6303 128.144 69.409L139.189 58.3642C139.799 57.7535 140.636 57.4357 141.437 57.4357ZM86.1151 57.4357C86.9155 57.4357 87.7523 57.7535 88.3632 58.3642L99.4079 69.409C100.629 70.6303 100.629 72.6347 99.4079 73.8562C98.1864 75.0774 96.1821 75.0777 94.9608 73.8562L83.9159 62.8115C82.6946 61.5901 82.6948 59.5858 83.9159 58.3642C84.5268 57.7536 85.3147 57.4357 86.1151 57.4357ZM152.872 85.0964C154.6 85.0964 156 86.4967 156 88.2241C156 89.9516 154.6 91.3518 152.872 91.3518H134.106C132.379 91.3518 130.978 89.9516 130.978 88.2241C130.978 86.4967 132.379 85.0964 134.106 85.0964H152.872ZM130.343 101.663C131.143 101.664 131.98 101.981 132.591 102.592L143.636 113.637C144.857 114.858 144.857 116.862 143.636 118.084C142.414 119.305 140.41 119.305 139.189 118.084L128.144 107.039C126.923 105.818 126.922 103.814 128.144 102.592C128.755 101.981 129.542 101.663 130.343 101.663Z%22 fill=%22%23FFCC33%22/%3E %3C/g%3E %3C/g%3E %3Cdefs%3E %3Cfilter id=%22filter0_d%22 x=%2221%22 y=%2221%22 width=%22158%22 height=%22158%22 filterUnits=%22userSpaceOnUse%22 color-interpolation-filters=%22sRGB%22%3E %3CfeFlood flood-opacity=%220%22 result=%22BackgroundImageFix%22/%3E %3CfeColorMatrix in=%22SourceAlpha%22 type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0%22 result=%22hardAlpha%22/%3E %3CfeOffset/%3E %3CfeGaussianBlur stdDeviation=%222%22/%3E %3CfeComposite in2=%22hardAlpha%22 operator=%22out%22/%3E %3CfeColorMatrix type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0%22/%3E %3CfeBlend mode=%22normal%22 in2=%22BackgroundImageFix%22 result=%22effect1_dropShadow%22/%3E %3CfeBlend mode=%22normal%22 in=%22SourceGraphic%22 in2=%22effect1_dropShadow%22 result=%22shape%22/%3E %3C/filter%3E %3Cfilter id=%22filter1_d%22 x=%2221%22 y=%2225%22 width=%22158%22 height=%22158%22 filterUnits=%22userSpaceOnUse%22 color-interpolation-filters=%22sRGB%22%3E %3CfeFlood flood-opacity=%220%22 result=%22BackgroundImageFix%22/%3E %3CfeColorMatrix in=%22SourceAlpha%22 type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0%22 result=%22hardAlpha%22/%3E %3CfeOffset dy=%224%22/%3E %3CfeGaussianBlur stdDeviation=%222%22/%3E %3CfeComposite in2=%22hardAlpha%22 operator=%22out%22/%3E %3CfeColorMatrix type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0%22/%3E %3CfeBlend mode=%22normal%22 in2=%22BackgroundImageFix%22 result=%22effect1_dropShadow%22/%3E %3CfeBlend mode=%22normal%22 in=%22SourceGraphic%22 in2=%22effect1_dropShadow%22 result=%22shape%22/%3E %3C/filter%3E %3Cfilter id=%22filter2_d%22 x=%2218%22 y=%2260%22 width=%22124%22 height=%22136%22 filterUnits=%22userSpaceOnUse%22 color-interpolation-filters=%22sRGB%22%3E %3CfeFlood flood-opacity=%220%22 result=%22BackgroundImageFix%22/%3E %3CfeColorMatrix in=%22SourceAlpha%22 type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0%22 result=%22hardAlpha%22/%3E %3CfeOffset/%3E %3CfeGaussianBlur stdDeviation=%222.5%22/%3E %3CfeComposite in2=%22hardAlpha%22 operator=%22out%22/%3E %3CfeColorMatrix type=%22matrix%22 values=%220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0%22/%3E %3CfeBlend mode=%22normal%22 in2=%22BackgroundImageFix%22 result=%22effect1_dropShadow%22/%3E %3CfeBlend mode=%22normal%22 in=%22SourceGraphic%22 in2=%22effect1_dropShadow%22 result=%22shape%22/%3E %3C/filter%3E %3C/defs%3E %3C/svg%3E") center center no-repeat; width: 200px; height: 200px; }
+
+@media (min-width: 720px) {
+  .ext-discussiontools-autotopicsubpopup .oo-ui-popupWidget-popup { width: 450px; min-height: 200px; padding-right: 0px; }
+  .ext-discussiontools-autotopicsubpopup-image { position: absolute; top: 0px; right: 0px; height: 100%; z-index: 1; }
+  .ext-discussiontools-autotopicsubpopup-body { margin-bottom: 1em; margin-top: 1em; margin-right: 200px; }
+  .ext-discussiontools-autotopicsubpopup-title, .ext-discussiontools-autotopicsubpopup-actions { margin-right: 150px; position: relative; z-index: 2; }
+}
+
+@media (max-width: 719px) {
+  .ext-discussiontools-autotopicsubpopup .oo-ui-popupWidget-popup { width: 320px; }
+  .ext-discussiontools-autotopicsubpopup-image { width: 100%; }
+  .ext-discussiontools-autotopicsubpopup-body { margin-bottom: 1em; }
+}
+
+.skin-minerva.ext-discussiontools-visualenhancements-enabled .ext-discussiontools-init-readAsWikiPage { display: block; width: 100%; padding: 1em; color: rgb(51, 102, 204); background: rgb(248, 249, 250); border-top: 1px solid rgb(234, 236, 240); text-align: center; }
+
+.mw-translate-fuzzy { background-color: rgb(255, 221, 221); }
+
+.mw-pt-translate-header { border-bottom: 1px solid rgb(162, 169, 177); padding-bottom: 4px; font-size: x-small; text-align: center; }
+
+.badge-goodarticle, .badge-goodlist, .badge-recommendedarticle { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-silver-star.png?70a8c"); }
+
+.badge-featuredarticle, .badge-featuredportal, .badge-featuredlist { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-golden-star.png?ed948"); }
+
+.badge-problematic { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-problematic.png?f3177"); }
+
+.badge-proofread { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-proofread.png?e81f9"); }
+
+.badge-validated { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-validated.png?6232c"); }
+
+.badge-digitaldocument { list-style-image: url("/w/extensions/WikimediaBadges/resources/images/badge-digitaldocument.png?d1c50"); }
+
+fieldset.translate-edit-documentation legend { padding: 0px 0.5em; }
+
+fieldset.translate-edit-documentation > div p:first-child { margin-top: 0.2em; }
+
+.ve-ui-mwNoticesPopupTool-item .translate-edit-documentation { margin-left: 0px; margin-right: 0px; }
+
+.mw-pt-languages { background-color: rgb(248, 249, 250); display: table; border: 1px solid rgb(162, 169, 177); box-sizing: border-box; line-height: 1.2; width: 100%; clear: both; overflow: auto; }
+
+.mw-pt-translate-header ~ .mw-parser-output .mw-pt-languages { margin-top: -1px; }
+
+.mw-pt-languages-label { background-color: rgb(234, 236, 240); padding: 0.5em; font-weight: bold; white-space: nowrap; }
+
+.mw-pt-languages .mw-pt-languages-list { padding: 0.5em; }
+
+.mw-pt-languages-list li { display: inline-block; margin: 0px; }
+
+.mw-pt-languages-list li::after { content: " • "; }
+
+.mw-pt-languages-list li:last-child::after { content: none; }
+
+.mw-pt-languages-selected, .mw-pt-languages-ui { font-weight: bold; }
+
+.mw-pt-progress { padding-right: 11px; background: right center / 9px 9px no-repeat transparent; }
+
+#mw-panel .portal .body .mw-pt-progress--none a, .interwiki-x-pagetranslation.mw-pt-progress--none a { color: rgb(186, 0, 0); }
+
+#mw-panel .portal .body .mw-pt-progress--none a:visited, .interwiki-x-pagetranslation.mw-pt-progress--none a:visited { color: rgb(165, 88, 88); }
+
+.mw-pt-progress--stub { background-image: url("/w/extensions/Translate/resources/images/prog-1.png?e272f"); }
+
+.mw-pt-progress--low { background-image: url("/w/extensions/Translate/resources/images/prog-2.png?47b49"); }
+
+.mw-pt-progress--med { background-image: url("/w/extensions/Translate/resources/images/prog-3.png?b5093"); }
+
+.mw-pt-progress--high { background-image: url("/w/extensions/Translate/resources/images/prog-4.png?32a29"); }
+
+.mw-pt-progress--complete { background-image: url("/w/extensions/Translate/resources/images/prog-5.png?2c8f4"); }
+
+@media screen and (min-width: 720px) {
+  .mw-pt-languages-label { display: table-cell; width: 1%; }
+  .mw-pt-languages-list { display: table-cell; }
+}
+
+.uls-trigger { background: url("/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/language.svg?80b0b") left center / contain no-repeat; padding-left: 24px; }
+
+#pt-uls { padding-top: 0px !important; }
+
+#pt-uls .uls-trigger { background-image: none; display: inline-block; padding-left: 0px; padding-top: 0.5em !important; }
+
+#pt-uls .uls-trigger::before { content: ""; background-image: url("/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/language.svg?80b0b"); background-position: left 0.0833333em; background-repeat: no-repeat; background-size: 1.33333em 1.33333em; padding-top: 0.333333em; padding-left: 1.66667em; opacity: 0.67; }
+
+.vector-user-links .uls-trigger { background: none; }
+
+.skin-vector-legacy { }
+
+.skin-vector-legacy .uls-trigger { background: url("/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/language.svg?80b0b") left center / contain no-repeat; padding-left: 24px; }
+
+.skin-vector-legacy #pt-uls { padding-top: 0px !important; }
+
+.skin-vector-legacy #pt-uls .uls-trigger { background-image: none; display: inline-block; padding-left: 0px; padding-top: 0.5em !important; }
+
+.skin-vector-legacy #pt-uls .uls-trigger::before { content: ""; background-image: url("/w/extensions/UniversalLanguageSelector/lib/jquery.uls/images/language.svg?80b0b"); background-position: left 0.0833333em; background-repeat: no-repeat; background-size: 1.33333em 1.33333em; padding-top: 0.333333em; padding-left: 1.66667em; opacity: 0.67; }
+
+.client-nojs #ca-ve-edit, .ve-not-available #ca-ve-edit, .client-nojs .mw-editsection-divider, .ve-not-available .mw-editsection-divider, .client-nojs .mw-editsection-visualeditor, .ve-not-available .mw-editsection-visualeditor { display: none; }
+
+.client-js .mw-content-ltr .mw-editsection-bracket:first-of-type, .client-js .mw-content-rtl .mw-editsection-bracket:not(:first-of-type) { margin-right: 0.25em; color: rgb(84, 89, 93); }
+
+.client-js .mw-content-rtl .mw-editsection-bracket:first-of-type, .client-js .mw-content-ltr .mw-editsection-bracket:not(:first-of-type) { margin-left: 0.25em; color: rgb(84, 89, 93); }
+
+.mw-ui-button { background-color: rgb(248, 249, 250); color: rgb(32, 33, 34); display: inline-block; box-sizing: border-box; margin: 0px; border: 1px solid rgb(162, 169, 177); border-radius: 2px; cursor: pointer; vertical-align: middle; font-family: inherit; font-size: 1em; font-weight: bold; line-height: 1.28571em; text-align: center; appearance: none; }
+
+.mw-ui-button:not(.mw-ui-icon-element) { min-height: 32px; min-width: 4em; max-width: 28.75em; padding: 5px 12px; }
+
+.mw-ui-button:not(:disabled) { transition-property: background-color, color, border-color, box-shadow; transition-duration: 100ms; }
+
+.mw-ui-button:not(:disabled):visited { color: rgb(32, 33, 34); }
+
+.mw-ui-button:not(:disabled):hover { background-color: rgb(255, 255, 255); color: rgb(64, 66, 68); border-color: rgb(162, 169, 177); }
+
+.mw-ui-button:not(:disabled):focus { color: rgb(32, 33, 34); border-color: rgb(51, 102, 204); box-shadow: rgb(51, 102, 204) 0px 0px 0px 1px inset, rgb(255, 255, 255) 0px 0px 0px 2px inset; outline-width: 0px; }
+
+.mw-ui-button:not(:disabled):active, .mw-ui-button:not(:disabled).is-on { background-color: rgb(200, 204, 209); color: rgb(0, 0, 0); border-color: rgb(114, 119, 125); box-shadow: none; }
+
+.mw-ui-button:disabled { background-color: rgb(200, 204, 209); color: rgb(255, 255, 255); border-color: rgb(200, 204, 209); cursor: default; }
+
+.mw-ui-button.mw-ui-icon-element:not(.mw-ui-icon-with-label-desktop) { color: transparent !important; }
+
+.mw-ui-button.mw-ui-icon-element:not(.mw-ui-icon-with-label-desktop) span { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; position: absolute !important; }
+
+@media (max-width: 1000px) {
+  .mw-ui-button.mw-ui-icon-element.mw-ui-icon-with-label-desktop { color: transparent !important; }
+  .mw-ui-button.mw-ui-icon-element span { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; position: absolute !important; }
+}
+
+.mw-ui-button.mw-ui-quiet, .mw-ui-button.mw-ui-quiet.mw-ui-progressive, .mw-ui-button.mw-ui-quiet.mw-ui-destructive { background-color: transparent; color: rgb(32, 33, 34); border-color: transparent; font-weight: bold; }
+
+.mw-ui-button.mw-ui-quiet:not(.mw-ui-icon-element), .mw-ui-button.mw-ui-quiet.mw-ui-progressive:not(.mw-ui-icon-element), .mw-ui-button.mw-ui-quiet.mw-ui-destructive:not(.mw-ui-icon-element) { min-height: 32px; }
+
+input[type="checkbox"]:hover + .mw-ui-button.mw-ui-quiet, input[type="checkbox"]:hover + .mw-ui-button.mw-ui-quiet.mw-ui-progressive, input[type="checkbox"]:hover + .mw-ui-button.mw-ui-quiet.mw-ui-destructive, .mw-ui-button.mw-ui-quiet:hover, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:hover, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:hover { background-color: rgba(0, 24, 73, 0.027); color: rgb(32, 33, 34); border-color: transparent; }
+
+input[type="checkbox"]:focus + .mw-ui-button.mw-ui-quiet, input[type="checkbox"]:focus + .mw-ui-button.mw-ui-quiet.mw-ui-progressive, input[type="checkbox"]:focus + .mw-ui-button.mw-ui-quiet.mw-ui-destructive, .mw-ui-button.mw-ui-quiet:focus, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:focus, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:focus { color: rgb(32, 33, 34); border-color: rgb(51, 102, 204); box-shadow: rgb(51, 102, 204) 0px 0px 0px 1px inset, rgb(255, 255, 255) 0px 0px 0px 2px inset; }
+
+input[type="checkbox"]:active + .mw-ui-button.mw-ui-quiet, input[type="checkbox"]:active + .mw-ui-button.mw-ui-quiet.mw-ui-progressive, input[type="checkbox"]:active + .mw-ui-button.mw-ui-quiet.mw-ui-destructive, .mw-ui-button.mw-ui-quiet:active, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:active, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:active { background-color: rgba(0, 36, 73, 0.082); color: rgb(0, 0, 0); border-color: rgb(114, 119, 125); box-shadow: none; }
+
+.mw-ui-button.mw-ui-quiet:disabled, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:disabled, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:disabled, .mw-ui-button.mw-ui-quiet:disabled:hover, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:disabled:hover, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:disabled:hover, .mw-ui-button.mw-ui-quiet:disabled:active, .mw-ui-button.mw-ui-quiet.mw-ui-progressive:disabled:active, .mw-ui-button.mw-ui-quiet.mw-ui-destructive:disabled:active { background-color: transparent; color: rgb(114, 119, 125); border-color: transparent; }
+
+.mw-ui-button.mw-ui-progressive:not(:disabled) { background-color: rgb(51, 102, 204); color: rgb(255, 255, 255); border-color: rgb(51, 102, 204); }
+
+.mw-ui-button.mw-ui-progressive:not(:disabled):hover { background-color: rgb(68, 127, 245); border-color: rgb(68, 127, 245); }
+
+.mw-ui-button.mw-ui-progressive:not(:disabled):focus { box-shadow: rgb(51, 102, 204) 0px 0px 0px 1px inset, rgb(255, 255, 255) 0px 0px 0px 2px inset; }
+
+.mw-ui-button.mw-ui-progressive:not(:disabled):active, .mw-ui-button.mw-ui-progressive:not(:disabled).is-on { background-color: rgb(42, 75, 141); border-color: rgb(42, 75, 141); box-shadow: none; }
+
+.mw-ui-button.mw-ui-progressive:disabled { background-color: rgb(200, 204, 209); color: rgb(255, 255, 255); border-color: rgb(200, 204, 209); }
+
+.mw-ui-button.mw-ui-progressive.mw-ui-quiet { color: rgb(51, 102, 204); background-color: transparent; border-color: transparent; }
+
+input[type="checkbox"]:hover + .mw-ui-button.mw-ui-progressive.mw-ui-quiet, .mw-ui-button.mw-ui-progressive.mw-ui-quiet:hover { background-color: rgba(52, 123, 255, 0.2); border-color: transparent; color: rgb(68, 127, 245); }
+
+input[type="checkbox"]:focus + .mw-ui-button.mw-ui-progressive.mw-ui-quiet, .mw-ui-button.mw-ui-progressive.mw-ui-quiet:focus { color: rgb(51, 102, 204); border-color: rgb(51, 102, 204); }
+
+input[type="checkbox"]:active + .mw-ui-button.mw-ui-progressive.mw-ui-quiet, .mw-ui-button.mw-ui-progressive.mw-ui-quiet:active { color: rgb(255, 255, 255); background-color: rgb(42, 75, 141); border-color: rgb(42, 75, 141); }
+
+.mw-ui-button.mw-ui-destructive:not(:disabled) { background-color: rgb(221, 51, 51); color: rgb(255, 255, 255); border-color: rgb(221, 51, 51); }
+
+.mw-ui-button.mw-ui-destructive:not(:disabled):hover { background-color: rgb(255, 66, 66); border-color: rgb(255, 66, 66); }
+
+.mw-ui-button.mw-ui-destructive:not(:disabled):focus { box-shadow: rgb(221, 51, 51) 0px 0px 0px 1px inset, rgb(255, 255, 255) 0px 0px 0px 2px inset; }
+
+.mw-ui-button.mw-ui-destructive:not(:disabled):active, .mw-ui-button.mw-ui-destructive:not(:disabled).is-on { background-color: rgb(179, 36, 36); border-color: rgb(179, 36, 36); box-shadow: none; }
+
+.mw-ui-button.mw-ui-destructive:disabled { background-color: rgb(200, 204, 209); color: rgb(255, 255, 255); border-color: rgb(200, 204, 209); }
+
+.mw-ui-button.mw-ui-destructive.mw-ui-quiet { color: rgb(221, 51, 51); background-color: transparent; border-color: transparent; }
+
+input[type="checkbox"]:hover + .mw-ui-button.mw-ui-destructive.mw-ui-quiet, .mw-ui-button.mw-ui-destructive.mw-ui-quiet:hover { background-color: rgba(209, 29, 19, 0.2); border-color: transparent; color: rgb(255, 66, 66); }
+
+input[type="checkbox"]:focus + .mw-ui-button.mw-ui-destructive.mw-ui-quiet, .mw-ui-button.mw-ui-destructive.mw-ui-quiet:focus { color: rgb(221, 51, 51); border-color: rgb(221, 51, 51); }
+
+input[type="checkbox"]:active + .mw-ui-button.mw-ui-destructive.mw-ui-quiet, .mw-ui-button.mw-ui-destructive.mw-ui-quiet:active { color: rgb(255, 255, 255); background-color: rgb(179, 36, 36); border-color: rgb(179, 36, 36); }
+
+.mw-ui-button.mw-ui-big { font-size: 1.3em; }
+
+.mw-ui-button.mw-ui-block { display: block; width: 100%; margin-left: auto; margin-right: auto; }
+
+a.mw-ui-button { text-decoration: none; }
+
+a.mw-ui-button:hover, a.mw-ui-button:focus { text-decoration: none; }
+
+.mw-ui-button-group > * { min-width: 48px; border-radius: 0px; float: left; }
+
+.mw-ui-button-group > :first-child { border-top-left-radius: 2px; border-bottom-left-radius: 2px; }
+
+.mw-ui-button-group > :not(:first-child) { border-left: 0px; }
+
+.mw-ui-button-group > :last-child { border-top-right-radius: 2px; border-bottom-right-radius: 2px; }
+
+.mw-ui-button-group .is-on .button { cursor: default; }
+
+.mw-ui-icon { font-size: initial; position: relative; display: inline-block; width: 1.25em; height: 1.25em; min-width: 1.25em; min-height: 1.25em; flex-basis: 1.25em; vertical-align: middle; line-height: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; appearance: none; background-color: transparent; margin: 0px; padding: 0px; box-sizing: content-box !important; }
+
+.mw-ui-icon:not(.mw-ui-button) { border: 0px; }
+
+.mw-ui-icon::before { content: ""; display: block; width: 100%; height: 100%; min-width: 1.25em; min-height: 1.25em; background-repeat: no-repeat; background-size: 1.25em 1.25em; background-position: center center; }
+
+.mw-ui-icon + span:not(:empty) { margin-left: 8px; }
+
+.mw-ui-icon-flush-top { margin-top: -0.75em; }
+
+.mw-ui-icon-flush-left { margin-left: -0.75em; }
+
+.mw-ui-icon-flush-right { margin-right: -0.75em; }
+
+.mw-ui-icon-element { border-radius: 2px; padding: 0.75em; transition: background-color 100ms ease 0s; color: transparent; }
+
+.mw-ui-icon-element:focus, .mw-ui-icon-element:active, .mw-ui-icon-element:visited { color: transparent; }
+
+.mw-ui-icon-element:active { background-color: rgba(0, 0, 0, 0.03); }
+
+@media (hover: hover) {
+  .mw-ui-icon-element:not(.disabled):hover { background-color: rgba(0, 0, 0, 0.03); }
+}
+
+.mw-ui-icon-small { width: 1em; height: 1em; min-width: 1em; min-height: 1em; flex-basis: 1em; line-height: 1em; }
+
+.mw-ui-icon-small::before { content: ""; display: block; width: 100%; height: 100%; min-width: 1em; min-height: 1em; background-repeat: no-repeat; background-size: 1em 1em; background-position: center center; }
+
+.mw-ui-icon-small.mw-ui-icon-element { padding: 0.5625em; }
+
+.mw-ui-icon-small.mw-ui-icon-flush-left { margin-left: -0.5625em; }
+
+.mw-ui-icon-small.mw-ui-icon-flush-right { margin-right: -0.5625em; }
+
+.mw-ui-icon-small.mw-ui-icon-before::before { min-width: 1em; min-height: 1em; margin-right: 0.5625em; }
+
+.mw-ui-icon-before { width: auto; max-width: 100%; }
+
+.mw-ui-icon-before::before { display: inline-block; font-size: initial; width: auto; min-width: 1.25em; min-height: 1.25em; margin-right: 8px; vertical-align: middle; }
+
+.mw-ui-icon-before span { vertical-align: middle; }
+
+@media (min-width: 1000px) {
+  .mw-ui-icon-with-label-desktop { width: auto; line-height: inherit; flex-basis: auto; color: rgb(84, 89, 93) !important; font-weight: 500 !important; }
+  .mw-ui-icon-with-label-desktop:hover, .mw-ui-icon-with-label-desktop:focus, .mw-ui-icon-with-label-desktop:active, .mw-ui-icon-with-label-desktop:visited { color: rgb(84, 89, 93); text-decoration: none; }
+  .mw-ui-icon-with-label-desktop::before { width: auto; display: inline-block; margin-right: 8px; vertical-align: text-bottom; }
+}
+
+.mw-ui-icon-wikimedia-labFlask::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=labFlask&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-labFlask-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=labFlask&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-language::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=language&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-language-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-sandbox::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=sandbox&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-sandbox-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=sandbox&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-listBullet::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-listBullet-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=listBullet&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-ellipsis::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-ellipsis-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=ellipsis&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-logIn::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=logIn&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-logIn-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=logIn&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-logOut::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=logOut&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-logOut-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=logOut&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-search::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=search&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-search-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=search&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-settings::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=settings&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-settings-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=settings&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-imageGallery::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=imageGallery&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-imageGallery-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=imageGallery&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-unStar::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=unStar&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-unStar-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=unStar&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-expand::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=expand&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-expand-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=expand&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAdd::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAdd&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAdd-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAdd&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAnonymous::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAnonymous&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAnonymous-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAnonymous&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAvatar::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAvatar&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userAvatar-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userAvatar&variant=progressive&format=original&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userContributions::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userContributions&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userContributions-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userContributions&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userGroup::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userGroup&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userGroup-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userGroup&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userTalk::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userTalk&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-userTalk-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=userTalk&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-watchlist::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=watchlist&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+.mw-ui-icon-wikimedia-watchlist-progressive::before { background-image: linear-gradient(transparent, transparent), url("/w/load.php?modules=skins.vector.icons&image=watchlist&variant=progressive&format=original&lang=en&skin=vector-2022&version=1hauh"); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after { animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; }
+}
+
+body { margin: 0px; }
+
+main { display: block; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+abbr[title] { border-bottom: 1px dotted; cursor: help; }
+
+@supports (text-decoration:underline dotted) {
+  abbr[title] { border-bottom: 0px; text-decoration: underline dotted; }
+}
+
+pre, code, tt, kbd, samp { font-family: monospace, monospace; }
+
+sub, sup { line-height: 1; }
+
+img { border: 0px; }
+
+button, input, optgroup, select, textarea { margin: 0px; }
+
+legend { color: inherit; padding: 0px; }
+
+div.tright, div.floatright, table.floatright { clear: right; float: right; }
+
+div.tleft, div.floatleft, table.floatleft { float: left; clear: left; }
+
+div.floatright, table.floatright { margin: 0px 0px 0.5em 0.5em; }
+
+div.floatleft, table.floatleft { margin: 0px 0.5em 0.5em 0px; }
+
+div.thumb { width: auto; background-color: transparent; margin-bottom: 0.5em; }
+
+div.tleft { margin: 0.5em 1.4em 1.3em 0px; }
+
+div.tright { margin: 0.5em 0px 1.3em 1.4em; }
+
+.thumbcaption { text-align: left; line-height: 1.4em; padding: 3px; }
+
+div.thumbinner { padding: 3px; text-align: center; overflow: hidden; }
+
+figure[typeof~="mw:File"], figure[typeof~="mw:File/Frameless"], figure[typeof~="mw:Image"], figure[typeof~="mw:Video"], figure[typeof~="mw:Audio"], figure[typeof~="mw:Image/Frameless"], figure[typeof~="mw:Video/Frameless"], figure[typeof~="mw:Audio/Frameless"] { margin: 0px; }
+
+.mw-body-content figure[typeof~="mw:File"] > a, .mw-body-content figure[typeof~="mw:File/Frameless"] > a, .mw-body-content figure[typeof~="mw:Image"] > a, .mw-body-content figure[typeof~="mw:Video"] > a, .mw-body-content figure[typeof~="mw:Audio"] > a, .mw-body-content figure[typeof~="mw:Image/Frameless"] > a, .mw-body-content figure[typeof~="mw:Video/Frameless"] > a, .mw-body-content figure[typeof~="mw:Audio/Frameless"] > a { border: 0px; }
+
+figure[typeof~="mw:File"].mw-halign-right, figure[typeof~="mw:File/Frameless"].mw-halign-right, figure[typeof~="mw:Image"].mw-halign-right, figure[typeof~="mw:Video"].mw-halign-right, figure[typeof~="mw:Audio"].mw-halign-right, figure[typeof~="mw:Image/Frameless"].mw-halign-right, figure[typeof~="mw:Video/Frameless"].mw-halign-right, figure[typeof~="mw:Audio/Frameless"].mw-halign-right { margin: 0px 0px 0.5em 0.5em; clear: right; float: right; }
+
+figure[typeof~="mw:File"].mw-halign-left, figure[typeof~="mw:File/Frameless"].mw-halign-left, figure[typeof~="mw:Image"].mw-halign-left, figure[typeof~="mw:Video"].mw-halign-left, figure[typeof~="mw:Audio"].mw-halign-left, figure[typeof~="mw:Image/Frameless"].mw-halign-left, figure[typeof~="mw:Video/Frameless"].mw-halign-left, figure[typeof~="mw:Audio/Frameless"].mw-halign-left { margin: 0px 0.5em 0.5em 0px; clear: left; float: left; }
+
+figure[typeof~="mw:File"].mw-halign-none, figure[typeof~="mw:File/Frameless"].mw-halign-none, figure[typeof~="mw:Image"].mw-halign-none, figure[typeof~="mw:Video"].mw-halign-none, figure[typeof~="mw:Audio"].mw-halign-none, figure[typeof~="mw:Image/Frameless"].mw-halign-none, figure[typeof~="mw:Video/Frameless"].mw-halign-none, figure[typeof~="mw:Audio/Frameless"].mw-halign-none { clear: none; float: none; }
+
+figure[typeof~="mw:File"].mw-halign-center, figure[typeof~="mw:File/Frameless"].mw-halign-center, figure[typeof~="mw:Image"].mw-halign-center, figure[typeof~="mw:Video"].mw-halign-center, figure[typeof~="mw:Audio"].mw-halign-center, figure[typeof~="mw:Image/Frameless"].mw-halign-center, figure[typeof~="mw:Video/Frameless"].mw-halign-center, figure[typeof~="mw:Audio/Frameless"].mw-halign-center { margin: 0px auto; display: table; border-collapse: collapse; clear: none; float: none; }
+
+figure[typeof~="mw:File"] > figcaption, figure[typeof~="mw:File/Frameless"] > figcaption, figure[typeof~="mw:Image"] > figcaption, figure[typeof~="mw:Video"] > figcaption, figure[typeof~="mw:Audio"] > figcaption, figure[typeof~="mw:Image/Frameless"] > figcaption, figure[typeof~="mw:Video/Frameless"] > figcaption, figure[typeof~="mw:Audio/Frameless"] > figcaption { display: none; }
+
+figure[typeof~="mw:File/Thumb"], figure[typeof~="mw:File/Frame"], figure[typeof~="mw:Image/Thumb"], figure[typeof~="mw:Video/Thumb"], figure[typeof~="mw:Audio/Thumb"], figure[typeof~="mw:Image/Frame"], figure[typeof~="mw:Video/Frame"], figure[typeof~="mw:Audio/Frame"] { margin: 0px 0px 0.5em; display: table; text-align: center; border-collapse: collapse; }
+
+.mw-body-content figure[typeof~="mw:File/Thumb"] > a, .mw-body-content figure[typeof~="mw:File/Frame"] > a, .mw-body-content figure[typeof~="mw:Image/Thumb"] > a, .mw-body-content figure[typeof~="mw:Video/Thumb"] > a, .mw-body-content figure[typeof~="mw:Audio/Thumb"] > a, .mw-body-content figure[typeof~="mw:Image/Frame"] > a, .mw-body-content figure[typeof~="mw:Video/Frame"] > a, .mw-body-content figure[typeof~="mw:Audio/Frame"] > a { border: 0px; }
+
+.mw-content-ltr figure[typeof~="mw:File/Thumb"], .mw-content-ltr figure[typeof~="mw:File/Frame"], .mw-content-ltr figure[typeof~="mw:Image/Thumb"], .mw-content-ltr figure[typeof~="mw:Video/Thumb"], .mw-content-ltr figure[typeof~="mw:Audio/Thumb"], .mw-content-ltr figure[typeof~="mw:Image/Frame"], .mw-content-ltr figure[typeof~="mw:Video/Frame"], .mw-content-ltr figure[typeof~="mw:Audio/Frame"] { margin: 0.5em 0px 1.3em 1.4em; clear: right; float: right; }
+
+.mw-content-rtl figure[typeof~="mw:File/Thumb"], .mw-content-rtl figure[typeof~="mw:File/Frame"], .mw-content-rtl figure[typeof~="mw:Image/Thumb"], .mw-content-rtl figure[typeof~="mw:Video/Thumb"], .mw-content-rtl figure[typeof~="mw:Audio/Thumb"], .mw-content-rtl figure[typeof~="mw:Image/Frame"], .mw-content-rtl figure[typeof~="mw:Video/Frame"], .mw-content-rtl figure[typeof~="mw:Audio/Frame"] { margin: 0.5em 1.4em 1.3em 0px; clear: left; float: left; }
+
+figure[typeof~="mw:File/Thumb"].mw-halign-right, figure[typeof~="mw:File/Frame"].mw-halign-right, figure[typeof~="mw:Image/Thumb"].mw-halign-right, figure[typeof~="mw:Video/Thumb"].mw-halign-right, figure[typeof~="mw:Audio/Thumb"].mw-halign-right, figure[typeof~="mw:Image/Frame"].mw-halign-right, figure[typeof~="mw:Video/Frame"].mw-halign-right, figure[typeof~="mw:Audio/Frame"].mw-halign-right { margin: 0.5em 0px 1.3em 1.4em; clear: right; float: right; }
+
+figure[typeof~="mw:File/Thumb"].mw-halign-left, figure[typeof~="mw:File/Frame"].mw-halign-left, figure[typeof~="mw:Image/Thumb"].mw-halign-left, figure[typeof~="mw:Video/Thumb"].mw-halign-left, figure[typeof~="mw:Audio/Thumb"].mw-halign-left, figure[typeof~="mw:Image/Frame"].mw-halign-left, figure[typeof~="mw:Video/Frame"].mw-halign-left, figure[typeof~="mw:Audio/Frame"].mw-halign-left { margin: 0.5em 1.4em 1.3em 0px; clear: left; float: left; }
+
+figure[typeof~="mw:File/Thumb"].mw-halign-none, figure[typeof~="mw:File/Frame"].mw-halign-none, figure[typeof~="mw:Image/Thumb"].mw-halign-none, figure[typeof~="mw:Video/Thumb"].mw-halign-none, figure[typeof~="mw:Audio/Thumb"].mw-halign-none, figure[typeof~="mw:Image/Frame"].mw-halign-none, figure[typeof~="mw:Video/Frame"].mw-halign-none, figure[typeof~="mw:Audio/Frame"].mw-halign-none { margin: 0px 0px 0.5em; clear: none; float: none; }
+
+figure[typeof~="mw:File/Thumb"].mw-halign-center, figure[typeof~="mw:File/Frame"].mw-halign-center, figure[typeof~="mw:Image/Thumb"].mw-halign-center, figure[typeof~="mw:Video/Thumb"].mw-halign-center, figure[typeof~="mw:Audio/Thumb"].mw-halign-center, figure[typeof~="mw:Image/Frame"].mw-halign-center, figure[typeof~="mw:Video/Frame"].mw-halign-center, figure[typeof~="mw:Audio/Frame"].mw-halign-center { margin: 0px auto 0.5em; clear: none; float: none; }
+
+figure[typeof~="mw:File/Thumb"] > :first-child, figure[typeof~="mw:File/Frame"] > :first-child, figure[typeof~="mw:Image/Thumb"] > :first-child, figure[typeof~="mw:Video/Thumb"] > :first-child, figure[typeof~="mw:Audio/Thumb"] > :first-child, figure[typeof~="mw:Image/Frame"] > :first-child, figure[typeof~="mw:Video/Frame"] > :first-child, figure[typeof~="mw:Audio/Frame"] > :first-child { }
+
+figure[typeof~="mw:File/Thumb"] > :first-child > audio, figure[typeof~="mw:File/Frame"] > :first-child > audio, figure[typeof~="mw:Image/Thumb"] > :first-child > audio, figure[typeof~="mw:Video/Thumb"] > :first-child > audio, figure[typeof~="mw:Audio/Thumb"] > :first-child > audio, figure[typeof~="mw:Image/Frame"] > :first-child > audio, figure[typeof~="mw:Video/Frame"] > :first-child > audio, figure[typeof~="mw:Audio/Frame"] > :first-child > audio, figure[typeof~="mw:File/Thumb"] > :first-child > img, figure[typeof~="mw:File/Frame"] > :first-child > img, figure[typeof~="mw:Image/Thumb"] > :first-child > img, figure[typeof~="mw:Video/Thumb"] > :first-child > img, figure[typeof~="mw:Audio/Thumb"] > :first-child > img, figure[typeof~="mw:Image/Frame"] > :first-child > img, figure[typeof~="mw:Video/Frame"] > :first-child > img, figure[typeof~="mw:Audio/Frame"] > :first-child > img, figure[typeof~="mw:File/Thumb"] > :first-child > video, figure[typeof~="mw:File/Frame"] > :first-child > video, figure[typeof~="mw:Image/Thumb"] > :first-child > video, figure[typeof~="mw:Video/Thumb"] > :first-child > video, figure[typeof~="mw:Audio/Thumb"] > :first-child > video, figure[typeof~="mw:Image/Frame"] > :first-child > video, figure[typeof~="mw:Video/Frame"] > :first-child > video, figure[typeof~="mw:Audio/Frame"] > :first-child > video { margin: 3px; }
+
+figure[typeof~="mw:File/Thumb"] > :first-child > span:first-child, figure[typeof~="mw:File/Frame"] > :first-child > span:first-child, figure[typeof~="mw:Image/Thumb"] > :first-child > span:first-child, figure[typeof~="mw:Video/Thumb"] > :first-child > span:first-child, figure[typeof~="mw:Audio/Thumb"] > :first-child > span:first-child, figure[typeof~="mw:Image/Frame"] > :first-child > span:first-child, figure[typeof~="mw:Video/Frame"] > :first-child > span:first-child, figure[typeof~="mw:Audio/Frame"] > :first-child > span:first-child, figure[typeof~="mw:File/Thumb"] > :first-child > span.mw-broken-media, figure[typeof~="mw:File/Frame"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Image/Thumb"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Video/Thumb"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Audio/Thumb"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Image/Frame"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Video/Frame"] > :first-child > span.mw-broken-media, figure[typeof~="mw:Audio/Frame"] > :first-child > span.mw-broken-media { display: inline-block; margin: 3px 4px; width: 180px; font-size: 94%; }
+
+figure[typeof~="mw:File/Thumb"] > figcaption, figure[typeof~="mw:File/Frame"] > figcaption, figure[typeof~="mw:Image/Thumb"] > figcaption, figure[typeof~="mw:Video/Thumb"] > figcaption, figure[typeof~="mw:Audio/Thumb"] > figcaption, figure[typeof~="mw:Image/Frame"] > figcaption, figure[typeof~="mw:Video/Frame"] > figcaption, figure[typeof~="mw:Audio/Frame"] > figcaption { display: table-caption; caption-side: bottom; line-height: 1.4em; word-break: break-word; padding: 0px 6px 6px; }
+
+.mw-content-ltr figure[typeof~="mw:File/Thumb"] > figcaption, .mw-content-ltr figure[typeof~="mw:File/Frame"] > figcaption, .mw-content-ltr figure[typeof~="mw:Image/Thumb"] > figcaption, .mw-content-ltr figure[typeof~="mw:Video/Thumb"] > figcaption, .mw-content-ltr figure[typeof~="mw:Audio/Thumb"] > figcaption, .mw-content-ltr figure[typeof~="mw:Image/Frame"] > figcaption, .mw-content-ltr figure[typeof~="mw:Video/Frame"] > figcaption, .mw-content-ltr figure[typeof~="mw:Audio/Frame"] > figcaption { text-align: left; }
+
+.mw-content-rtl figure[typeof~="mw:File/Thumb"] > figcaption, .mw-content-rtl figure[typeof~="mw:File/Frame"] > figcaption, .mw-content-rtl figure[typeof~="mw:Image/Thumb"] > figcaption, .mw-content-rtl figure[typeof~="mw:Video/Thumb"] > figcaption, .mw-content-rtl figure[typeof~="mw:Audio/Thumb"] > figcaption, .mw-content-rtl figure[typeof~="mw:Image/Frame"] > figcaption, .mw-content-rtl figure[typeof~="mw:Video/Frame"] > figcaption, .mw-content-rtl figure[typeof~="mw:Audio/Frame"] > figcaption { text-align: right; }
+
+.mw-valign-middle > :first-child > audio, .mw-valign-middle > :first-child > img, .mw-valign-middle > :first-child > video { vertical-align: middle; }
+
+.mw-valign-baseline > :first-child > audio, .mw-valign-baseline > :first-child > img, .mw-valign-baseline > :first-child > video { vertical-align: baseline; }
+
+.mw-valign-sub > :first-child > audio, .mw-valign-sub > :first-child > img, .mw-valign-sub > :first-child > video { vertical-align: sub; }
+
+.mw-valign-super > :first-child > audio, .mw-valign-super > :first-child > img, .mw-valign-super > :first-child > video { vertical-align: super; }
+
+.mw-valign-top > :first-child > audio, .mw-valign-top > :first-child > img, .mw-valign-top > :first-child > video { vertical-align: top; }
+
+.mw-valign-text-top > :first-child > audio, .mw-valign-text-top > :first-child > img, .mw-valign-text-top > :first-child > video { vertical-align: text-top; }
+
+.mw-valign-bottom > :first-child > audio, .mw-valign-bottom > :first-child > img, .mw-valign-bottom > :first-child > video { vertical-align: bottom; }
+
+.mw-valign-text-bottom > :first-child > audio, .mw-valign-text-bottom > :first-child > img, .mw-valign-text-bottom > :first-child > video { vertical-align: text-bottom; }
+
+.mw-gallery-traditional .gallerybox > .thumb::before { content: ""; vertical-align: middle; display: inline-block; height: 100%; }
+
+.mw-gallery-traditional .gallerybox > .thumb > * { vertical-align: middle; display: inline-block; }
+
+.mw-message-box { color: rgb(0, 0, 0); box-sizing: border-box; margin-bottom: 16px; border: 1px solid rgb(162, 169, 177); padding: 12px 24px; overflow-wrap: break-word; overflow: hidden; background-color: rgb(234, 236, 240); }
+
+.mw-message-box :only-child { margin: 0px; }
+
+.mw-message-box h2 { color: inherit; display: block; border: 0px; font-size: 1em; font-weight: bold; }
+
+.mw-message-box .mw-logevent-loglines li { font-size: 90%; }
+
+.mw-message-box-error { background-color: rgb(254, 231, 230); border-color: rgb(221, 51, 51); }
+
+.mw-message-box-warning { background-color: rgb(254, 246, 231); border-color: rgb(255, 204, 51); }
+
+.mw-message-box-success { background-color: rgb(213, 253, 244); border-color: rgb(20, 134, 109); }
+
+.toctogglecheckbox:checked ~ ul { display: none; }
+
+@media screen {
+  html, body { height: 100%; }
+  :focus { outline-color: rgb(51, 102, 204); }
+  html { font-size: 100%; }
+  html, body { font-family: sans-serif; }
+  ul { list-style-image: url("/w/skins/Vector/resources/common/images/bullet-icon.svg?d4515"); }
+  pre, .mw-code { line-height: 1.3; }
+  .mw-jump-link:not(:focus) { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; position: absolute !important; }
+  .mw-editsection, .mw-editsection-like { font-family: sans-serif; }
+  .mw-body h1, .mw-body-content h1, .mw-body-content h2 { margin-bottom: 0.25em; padding: 0px; font-family: "Linux Libertine", Georgia, Times, serif; line-height: 1.3; }
+  .mw-body h1:lang(ja), .mw-body-content h1:lang(ja), .mw-body-content h2:lang(ja), .mw-body h1:lang(he), .mw-body-content h1:lang(he), .mw-body-content h2:lang(he), .mw-body h1:lang(ko), .mw-body-content h1:lang(ko), .mw-body-content h2:lang(ko) { font-family: sans-serif; }
+  .mw-body h1:lang(my), .mw-body-content h1:lang(my), .mw-body-content h2:lang(my) { line-height: normal; }
+  .mw-body h1, .mw-body-content h1 { font-size: 1.8em; }
+  .vector-body { font-size: calc(0.875em); line-height: 1.6; }
+  .vector-body h1 { margin-top: 1em; }
+  .vector-body h2 { margin-top: 1em; font-size: 1.5em; }
+  .vector-body h3, .vector-body h4, .vector-body h5, .vector-body h6 { margin-top: 0.3em; margin-bottom: 0px; padding-bottom: 0px; line-height: 1.6; }
+  .vector-body h3 { font-size: 1.2em; }
+  .vector-body h3, .vector-body h4 { font-weight: bold; }
+  .vector-body h4, .vector-body h5, .vector-body h6 { font-size: 100%; }
+  .vector-body .toc h2 { font-family: sans-serif; font-size: 100%; }
+  .vector-body p { margin: 0.5em 0px; }
+  .vector-body blockquote { border-left: 4px solid rgb(234, 236, 240); padding: 8px 32px; }
+  .vector-body blockquote > :first-child { margin-top: 0px; }
+  .vector-body blockquote > :last-child { margin-bottom: 0px; }
+  .mw-parser-output a.external { background-image: url("/w/skins/Vector/resources/common/images/external-link-ltr-icon.svg?48e54"); background-position: right center; background-repeat: no-repeat; padding-right: 13px; }
+  .mw-indicators { font-size: 0.875em; line-height: 1.6; position: relative; }
+  .mw-indicator { display: inline-block; }
+  #siteNotice { font-size: 0.8em; }
+  .mw-portlet .vector-menu-heading { display: none; }
+  .mw-portlet ul { list-style: none none; margin: 0px; }
+  @keyframes rotate { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+  .vector-menu-tabs .mw-watchlink.icon a { width: 2.15385em; height: 0px; padding: 3.07692em 0px 0px; overflow: hidden; }
+  .vector-menu-tabs .mw-watchlink.icon a::before { background-repeat: no-repeat; background-position: 50% 50%; content: ""; display: block; position: absolute; top: 1.07692em; left: 0.384615em; width: 1.23077em; height: 1.23077em; }
+  .vector-menu-tabs #ca-unwatch.icon a::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/unwatch-icon.svg?4152f"); }
+  .vector-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/unwatch-temp-icon.svg?195f5"); }
+  .vector-menu-tabs #ca-watch.icon a::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/watch-icon.svg?6ab6f"); }
+  .vector-menu-tabs #ca-unwatch.icon a:hover::before, .vector-menu-tabs #ca-unwatch.icon a:focus::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/unwatch-icon-hl.svg?a4731"); }
+  .vector-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a:hover::before, .vector-menu-tabs #ca-unwatch.mw-watchlink-temp.icon a:focus::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/unwatch-temp-icon-hl.svg?f3db6"); }
+  .vector-menu-tabs #ca-watch.icon a:hover::before, .vector-menu-tabs #ca-watch.icon a:focus::before { background-image: linear-gradient(transparent, transparent), url("/w/skins/Vector/resources/common/images/watch-icon-hl.svg?9bf90"); }
+  .vector-menu-tabs #ca-unwatch.icon .loading::before, .vector-menu-tabs #ca-watch.icon .loading::before { animation: 700ms linear 0s infinite normal none running rotate; outline: 0px; cursor: default; pointer-events: none; transform-origin: 50% 50%; }
+  .vector-menu-dropdown { direction: ltr; float: left; cursor: pointer; position: relative; line-height: 1.125em; }
+  .vector-menu-dropdown .vector-menu-heading { color: rgb(84, 89, 93); position: relative; display: block; box-sizing: border-box; height: 100%; }
+  .vector-menu-dropdown .vector-menu-heading::after { content: ""; background-image: url("/w/skins/Vector/resources/common/images/arrow-down.svg?9426f"); background-position: 100% 50%; background-repeat: no-repeat; position: absolute; top: 0.769231em; right: 8px; bottom: 0px; width: 1.23077em; opacity: 0.84; }
+  .vector-menu-dropdown .vector-menu-heading:hover, .vector-menu-dropdown .vector-menu-heading:focus { color: rgb(32, 33, 34); }
+  .vector-menu-dropdown .vector-menu-heading:hover::after, .vector-menu-dropdown .vector-menu-heading:focus::after { opacity: 1; }
+  .vector-menu-dropdown .vector-menu-content { background-color: rgb(255, 255, 255); list-style: none none; min-width: 100%; position: absolute; top: 2.5em; left: -1px; margin: 0px; border: 1px solid rgb(162, 169, 177); padding: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px 0px; text-align: left; opacity: 0; visibility: hidden; transition-property: opacity; transition-duration: 100ms; z-index: 3; }
+  .vector-menu-dropdown .vector-menu-checkbox:checked ~ .vector-menu-content { opacity: 1; visibility: visible; }
+  .vector-menu-dropdown ul { list-style: none; }
+  .vector-menu-dropdown li { padding: 0px; margin: 0px; text-align: left; line-height: 1em; }
+  .vector-menu-dropdown li a { padding: 0.625em; color: rgb(6, 69, 173); display: block; white-space: nowrap; cursor: pointer; }
+  .vector-menu-dropdown li a span:not(.mw-ui-icon) { font-size: 0.8125em; }
+  .vector-menu-dropdown .selected a, .vector-menu-dropdown .selected a:visited { color: rgb(32, 33, 34); text-decoration: none; }
+  .vector-menu-checkbox { cursor: pointer; position: absolute; top: 0px; left: 0px; z-index: 1; opacity: 0; width: 100%; height: 100%; margin: 0px; padding: 0px; display: none; }
+  :not(:checked) > .vector-menu-checkbox { display: block; }
+  .vector-menu-dropdown-noicon .vector-menu-heading { padding-top: 1.25em; padding-left: 8px; padding-right: 1.84615em; font-size: 0.8125em; font-weight: normal; }
+  .vector-menu-dropdown-noicon .vector-menu-checkbox:focus + .vector-menu-heading { outline: -webkit-focus-ring-color auto; }
+  .vector-menu-portal { margin: 0px 0.6em 0px 0.7em; padding: 0.25em 0px; direction: ltr; }
+  .vector-menu-portal .vector-menu-heading { display: block; background-image: linear-gradient(to right, rgba(200, 204, 209, 0) 0px, rgb(200, 204, 209) 33%, rgb(200, 204, 209) 66%, rgba(200, 204, 209, 0) 100%); background-position: center bottom; background-repeat: no-repeat; background-size: 100% 1px; color: rgb(84, 89, 93); margin: 0.5em 0px 0px 0.666667em; border: 0px; padding: 0.25em 0px; font-size: 0.75em; font-weight: normal; cursor: default; }
+  .vector-menu-portal .vector-menu-content { margin-left: 0.5em; padding-top: 0px; }
+  .vector-menu-portal .vector-menu-content ul { list-style: none none; margin: 0px; padding-top: 0.3em; }
+  .vector-menu-portal .vector-menu-content li { margin: 0px; padding: 0.25em 0px; font-size: 0.75em; line-height: 1.125em; overflow-wrap: break-word; }
+  .vector-menu-portal .vector-menu-content li a { color: rgb(6, 69, 173); }
+  .vector-menu-portal .vector-menu-content li a:visited { color: rgb(11, 0, 128); }
+  .vector-search-box-inner { position: relative; height: 100%; }
+  .vector-search-box-input { background-color: rgba(255, 255, 255, 0.5); color: rgb(0, 0, 0); width: 100%; height: 2.15385em; box-sizing: border-box; border: 1px solid rgb(162, 169, 177); border-radius: 2px; padding: 5px 2.15385em 5px 0.4em; box-shadow: transparent 0px 0px 0px 1px inset; font-family: inherit; font-size: 0.8125em; direction: ltr; transition-property: border-color, box-shadow; transition-duration: 250ms; appearance: none; }
+  .vector-search-box-inner:hover .vector-search-box-input { border-color: rgb(114, 119, 125); }
+  .vector-search-box-input:focus, .vector-search-box-inner:hover .vector-search-box-input:focus { outline: 0px; border-color: rgb(51, 102, 204); box-shadow: rgb(51, 102, 204) 0px 0px 0px 1px inset; }
+  .vector-search-box-input::-webkit-input-placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  .vector-search-box-input::placeholder { color: rgb(114, 119, 125); opacity: 1; }
+  .vector-search-box-input::-webkit-search-decoration, .vector-search-box-input::-webkit-search-cancel-button, .vector-search-box-input::-webkit-search-results-button, .vector-search-box-input::-webkit-search-results-decoration { display: none; }
+  .searchButton { background-color: transparent; position: absolute; top: 1px; bottom: 1px; right: 1px; min-width: 28px; width: 2.15385em; border: 0px; padding: 0px; cursor: pointer; font-size: 0.8125em; direction: ltr; text-indent: -99999px; white-space: nowrap; overflow: hidden; z-index: 1; }
+  .searchButton[name="go"] { background: url("/w/skins/Vector/resources/common/images/search.svg?bbf78") center center / 1.23077em no-repeat; opacity: 0.67; }
+  .search-toggle { display: block; float: right; }
+  .vector-search-box-collapses > div { display: none; }
+  #p-logo { width: 10em; height: 160px; margin-bottom: 1em; }
+  #p-logo a { background-position: center center; background-repeat: no-repeat; display: block; width: 10em; height: 160px; text-decoration: none; }
+  .mw-footer { direction: ltr; }
+  .mw-footer ul { list-style: none none; margin: 0px; padding: 0px; }
+  .mw-footer li { color: rgb(32, 33, 34); margin: 0px; padding: 0.5em 0px; font-size: 0.75em; }
+  #footer-icons { float: right; }
+  #footer-icons li { float: left; margin-left: 0.5em; line-height: 2; text-align: right; }
+  #footer-info li { line-height: 1.4; }
+  #footer-places li { float: left; margin-right: 1em; line-height: 2; }
+}
+
+@media screen and (min-width: 1000px) {
+  .search-toggle { display: none; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-search-box-collapses > div { display: block; }
+}
+
+@media print {
+  .toc, body { padding: 10px; font-family: "Linux Libertine", Georgia, Times, serif; }
+  .printfooter, .mw-footer, .thumb, figure, table, ol, dl, ul, h3, h4, h5, h6 { font-family: sans-serif; }
+  img { font-family: "Linux Libertine", Georgia, Times, serif; }
+  .mw-body a:not(.image) { border-bottom: 1px solid rgb(170, 170, 170); }
+  .firstHeading { font-size: 25pt; line-height: 28pt; margin-bottom: 20px; padding-bottom: 5px; }
+  .firstHeading, h2 { overflow: hidden; border-bottom: 2px solid rgb(0, 0, 0); }
+  h3, h4, h5, h6 { margin: 30px 0px 0px; }
+  h2, h3, h4, h5, h6 { padding: 0px; position: relative; }
+  h2 { font-size: 18pt; line-height: 24pt; margin-bottom: 0.25em; }
+  h3 { font-size: 14pt; line-height: 20pt; }
+  h4, h5, h6 { font-size: 12pt; line-height: 16pt; }
+  p { font-size: 12pt; line-height: 16pt; margin-top: 5px; text-align: justify; }
+  p::before { content: ""; display: block; width: 120pt; overflow: hidden; }
+  blockquote { border-left: 2px solid rgb(0, 0, 0); padding-left: 20px; }
+  ol, ul { margin: 10px 0px 0px 1.6em; padding: 0px; }
+  ol li, ul li { padding: 2px 0px; font-size: 12pt; }
+  table ol li, table ul li { font-size: inherit; }
+  .toc { break-before: avoid; break-after: avoid; background: none; border: 0px; display: table; }
+  .toc a { border: 0px; font-weight: normal; }
+  .toc > ul > li { margin-bottom: 4px; font-weight: bold; }
+  .toc ul { margin: 0px; list-style: none; }
+  .toc ul ul { padding-left: 30px; }
+  .toc li.toclevel-1 > a { font-size: 12pt; font-weight: bold; }
+  #mw-navigation, .noprint, .mw-jump-link, .mw-portlet-lang, .toc .tocnumber { display: none; }
+  .printfooter { margin-top: 10px; border-top: 3px solid rgb(0, 0, 0); padding-top: 10px; font-size: 10pt; clear: both; }
+  .mw-footer { margin-top: 12px; border-top: 1px solid rgb(238, 238, 238); padding-top: 5px; }
+  #footer-info { margin: 0px; padding: 0px; }
+  #footer-info li { color: rgb(153, 153, 153); list-style: none; display: block; padding-bottom: 10px; font-size: 10pt; }
+  #footer-info li a { color: rgb(153, 153, 153) !important; }
+  #footer-info-lastmod { color: rgb(0, 0, 0); font-size: 12pt; font-weight: bold; }
+}
+
+@media screen {
+  body { background-color: rgb(248, 249, 250); color: rgb(32, 33, 34); overflow-y: scroll; }
+  .mw-body, .parsoid-body { direction: ltr; }
+  .vector-layout-legacy .mw-body, .vector-layout-legacy .parsoid-body { padding: 0.5em 0.5em 1.5em; }
+  .mw-body { border-top: 1px solid transparent; margin-top: -1px; padding: 0.5em 0.5em 1.5em; }
+  .mw-body .firstHeading { overflow: visible; margin-bottom: 0px; }
+  .mw-body-subheader { margin-top: 1em; border-bottom: 2px solid transparent; }
+  .mw-header { position: relative; z-index: 4; }
+  .mw-body, #mw-data-after-content, #left-navigation, .mw-footer { margin-left: 0px; }
+  .mw-indicators { z-index: 1; }
+  .mw-body-header::after { clear: both; content: ""; display: block; }
+  .mw-body .mw-portlet-lang { float: right; }
+  .vector-body { position: relative; z-index: 0; }
+  .vector-layout-legacy .mw-article-toolbar-container { max-width: 60em; margin-left: auto; margin-right: auto; }
+  .vector-layout-legacy .mw-article-toolbar-container::after { clear: both; content: ""; display: block; }
+  .skin-vector-disable-max-width .vector-layout-legacy .mw-article-toolbar-container { max-width: none; }
+  #left-navigation { float: left; }
+  #right-navigation { float: right; }
+  #right-navigation .vector-menu-content { left: auto; right: -1px; }
+  .vector-layout-legacy #mw-panel { position: absolute; top: 0px; left: -2em; z-index: 1; }
+  .vector-toc-enabled .vector-layout-legacy #mw-panel { position: static; float: none; }
+  .mw-table-of-contents-container { position: sticky; top: calc(-2em); }
+  #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-table-of-contents-container { top: calc(0em); }
+  .vector-layout-legacy .mw-table-of-contents-container { float: left; clear: both; }
+  .parsoid-body { padding: 0.5em 0.5em 1.5em; }
+  #p-namespaces { background-image: none; padding-left: 0px; }
+  .mw-footer { border-top: 1px solid rgb(162, 169, 177); padding: 0.75em; }
+  .mw-page-container { position: relative; z-index: 0; max-width: 94.625em; min-height: 100%; margin-left: auto; margin-right: auto; padding: 0.05px 1em; background-color: rgb(255, 255, 255); min-width: 26.25em; }
+  .skin--responsive .mw-page-container { min-width: auto; }
+  .mw-page-container-inner { position: relative; }
+  .mw-workspace-container { position: relative; }
+  .vector-layout-legacy .mw-workspace-container { max-width: 94.625em; margin-left: auto; margin-right: auto; }
+  .mw-workspace-container.mw-footer-container { position: static; }
+  .vector-layout-legacy .mw-content-container { max-width: 60em; display: flow-root; margin-left: auto; margin-right: auto; }
+  .skin-vector-disable-max-width .mw-content-container { max-width: none; }
+  .vector-layout-legacy .mw-footer-container { padding-top: 50px; padding-bottom: 82px; }
+  #mw-sidebar-checkbox:not(:checked) ~ .mw-workspace-container .mw-sidebar { transform: translateX(0em); }
+  .vector-toc-enabled #mw-sidebar-checkbox:not(:checked) ~ .mw-workspace-container .mw-sidebar { display: none; }
+  .skin-vector-disable-max-width .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container, .skin-vector-disable-max-width .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container { margin-left: 11.5em; }
+  .skin-vector-toc-experiment-control .mw-table-of-contents-container, .skin-vector-toc-experiment-unsampled .mw-table-of-contents-container { display: none; }
+  .skin-vector-toc-experiment-treatment #toc { padding: 0px; border: 0px; }
+  .skin-vector-toc-experiment-treatment #toc > * { display: none; }
+  .vector-layout-grid .mw-content-container { max-width: 60em; }
+  .skin-vector-disable-max-width .vector-layout-grid .mw-content-container { max-width: none; width: 100%; }
+  .vector-layout-grid .mw-footer-container { padding-top: 50px; padding-bottom: 82px; }
+  .vector-layout-grid #mw-sidebar-checkbox:not(:checked) ~ .vector-sidebar-container-no-toc ~ .mw-content-container { grid-column: sidebar / content; margin-left: auto; margin-right: auto; width: 100%; box-sizing: border-box; }
+  .vector-article-toolbar .mw-article-toolbar-container { display: flex; border-bottom: 1px solid rgb(234, 236, 240); }
+  .vector-article-toolbar .mw-article-toolbar-container a:hover, .vector-article-toolbar .mw-article-toolbar-container a:focus { text-decoration: none; }
+  .vector-article-toolbar .mw-article-toolbar-container #right-navigation { display: flex; flex-grow: 1; justify-content: end; margin-right: -1px; }
+  .vector-article-toolbar .mw-article-toolbar-container #left-navigation { display: flex; }
+  .vector-article-toolbar .mw-article-toolbar-container .mw-portlet-views { display: none; }
+  .vector-article-toolbar .mw-article-toolbar-container .vector-more-collapsible-item { display: block; }
+  .search-form__loader::after { content: attr(data-loading-msg); display: flex; flex-direction: column; justify-content: center; position: absolute; top: 100%; width: 100%; height: calc(8px + 2.57143em + 8px); box-sizing: border-box; border-width: 0px 1px 1px; border-style: solid; border-color: rgb(162, 169, 177); border-image: initial; border-radius: 0px 0px 2px 2px; box-shadow: transparent 0px 0px 0px 1px inset; padding-left: 2.57143em; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; z-index: 1; background: linear-gradient(90deg, rgb(51, 102, 204) 0%, rgb(51, 102, 204) 100%) -10% 0px / 0px 2px no-repeat, rgb(255, 255, 255); animation: 1200ms linear 500ms infinite alternate none running search-loader-progress-bar; }
+  @keyframes search-loader-progress-bar { 
+  0% { background-size: 0px 2px; background-position: -10% 0px; }
+  30% { background-size: 30% 2px; background-position: -10% 0px; }
+  70% { background-size: 30% 2px; background-position: 110% 0px; }
+  100% { background-size: 0px 2px; background-position: 110% 0px; }
+}
+  .vector-search-box { font-size: calc(0.875em); flex-grow: 1; }
+  .vector-search-box > div { max-width: 35.7143em; }
+  .vector-search-box-vue .vector-search-box-input, .vector-search-box-vue .searchButton { font-size: inherit; }
+  .vector-search-box-vue .vector-search-box-input { height: 2.28571em; }
+  .vector-search-box-vue .searchButton { background-size: 1.42857em; }
+  .client-js .vector-search-box-vue .wvui-typeahead-search__suggestion, .client-js .vector-search-box-vue .wvui-typeahead-search__suggestions__footer { text-decoration: none; }
+  .client-js .vector-search-box-vue .wvui-typeahead-search__suggestions li { margin-bottom: 0px; }
+  .client-js .vector-search-box-vue .vector-search-box-input { padding-left: 2.57143em; padding-right: 8px; }
+  .client-js .vector-search-box-vue .searchButton { pointer-events: none; inset: 0px auto 0px 1px; width: 2.57143em; }
+  .client-js .vector-search-box-vue .wvui-input__input:not([disabled]) { transition: none 0s ease 0s; }
+  .client-js .vector-search-box-vue.vector-search-box-show-thumbnail > div { max-width: 37.4286em; }
+  .client-js .vector-search-box-vue.vector-search-box-show-thumbnail.vector-search-box-auto-expand-width .searchButton { left: 25px; }
+  .client-js .vector-search-box-vue.vector-search-box-show-thumbnail.vector-search-box-auto-expand-width .vector-search-box-input { margin-left: 24px; width: calc(100% - 24px); }
+  .client-js .vector-search-box-vue.vector-search-box-show-thumbnail:not(.vector-search-box-auto-expand-width) .vector-search-box-input, .client-js .vector-search-box-vue.vector-search-box-show-thumbnail.vector-search-box-auto-expand-width .vector-search-box-input:focus { margin-left: 0px; padding-left: calc(2.57143em + 24px); width: 100%; }
+  .client-js .vector-search-box-vue.vector-search-box-show-thumbnail:not(.vector-search-box-auto-expand-width) .vector-search-box-input ~ .searchButton, .client-js .vector-search-box-vue.vector-search-box-show-thumbnail.vector-search-box-auto-expand-width .vector-search-box-input:focus ~ .searchButton { left: 13px; }
+  .mw-checkbox-hack-checkbox { display: none; }
+  .mw-checkbox-hack-button { display: inline-block; cursor: pointer; }
+  .mw-sidebar { box-sizing: border-box; }
+  .mw-sidebar #p-navigation .vector-menu-heading { display: none; }
+  body:not(.vector-toc-enabled) .mw-sidebar { width: 11em; padding: 8px 0px 40px 0.8125em; background-image: linear-gradient(rgb(255, 255, 255) 0%, rgb(248, 249, 250) 10%, rgb(248, 249, 250) 90%, rgb(255, 255, 255) 100%); }
+  .vector-article-toolbar + .mw-sidebar { margin-top: -2.5em; }
+  .vector-toc-enabled { }
+  .vector-toc-enabled .mw-sidebar, .vector-toc-enabled .sidebar-toc { margin-left: 0px; }
+  .vector-toc-enabled .mw-sidebar { width: 13.75em; padding: 12px 19px 12px 9px; background-image: none; background-color: rgb(248, 249, 250); }
+  .vector-toc-enabled .sidebar-toc { margin-top: 3.5em; }
+  .vector-toc-enabled #mw-sidebar-checkbox:checked ~ .mw-workspace-container .sidebar-toc { margin-top: 1.5em; }
+  .vector-toc-enabled.vector-sticky-header-visible .sidebar-toc { margin-top: 1.5em; }
+  .mw-sidebar-action { margin: 8px 0.6em 8px 1.2em; }
+  .mw-sidebar-action .mw-sidebar-action-item h3.mw-sidebar-action-heading { display: block; background-image: linear-gradient(to right, rgba(200, 204, 209, 0) 0px, rgb(200, 204, 209) 33%, rgb(200, 204, 209) 66%, rgba(200, 204, 209, 0) 100%); background-position: center bottom; background-repeat: no-repeat; background-size: 100% 1px; color: rgb(84, 89, 93); margin: 0.75em 0px; border: 0px; padding: 0.3em 0px; font-size: 0.75em; font-weight: normal; cursor: default; }
+  .mw-sidebar-action .mw-sidebar-action-item .mw-sidebar-action-content > * { font-size: 0.75em; }
+  .mw-sidebar-action .mw-sidebar-action-item .mw-sidebar-action-content > a { font-weight: bold; }
+  .mw-sidebar-action .mw-sidebar-action-item .vector-language-sidebar-alert { padding: 0.75em; }
+  #mw-sidebar-button::before { opacity: 0.67; background-image: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2220%22 height=%2220%22 viewBox=%220 0 20 20%22%3E %3Ctitle%3E chevron %3C/title%3E %3Cpath d=%22m9 2 1.3 1.3L3.7 10l6.6 6.7L9 18l-8-8 8-8zm8.5 0L19 3.3 12.2 10l6.7 6.7-1.4 1.3-8-8 8-8z%22/%3E %3C/svg%3E"); }
+  #mw-sidebar-checkbox:not(:checked) ~ .mw-header #mw-sidebar-button::before { background-image: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2220%22 height=%2220%22 viewBox=%220 0 20 20%22%3E %3Ctitle%3E menu %3C/title%3E %3Cpath d=%22M1 3v2h18V3zm0 8h18V9H1zm0 6h18v-2H1z%22/%3E %3C/svg%3E"); }
+  #mw-sidebar-button:hover::before { opacity: 1; }
+  #mw-sidebar-checkbox:not(:checked) ~ .mw-workspace-container .mw-sidebar { visibility: hidden; opacity: 0; transform: translateX(-100%); }
+  .vector-animations-ready .mw-sidebar { transition-property: transform, opacity, visibility; transition-duration: 100ms; transition-timing-function: ease-out; }
+  .vector-animations-ready #mw-sidebar-button { transition-property: background-color, border-color, box-shadow; transition-duration: 100ms; }
+  #p-lang-btn, .vector-language-in-header-enabled .mw-portlet-lang { margin-top: 2px; box-sizing: border-box; height: 2em; }
+  #p-lang-btn .mw-ui-icon::before, .vector-language-in-header-enabled .mw-portlet-lang .mw-ui-icon::before { opacity: 0.87; }
+  #p-lang-btn .vector-menu-heading, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-heading { font-size: initial; padding-right: 30px; padding-left: 8px; user-select: none; opacity: 1; }
+  #p-lang-btn .vector-menu-heading .vector-menu-heading-label, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-heading .vector-menu-heading-label { font-size: 0.875em; }
+  #p-lang-btn .vector-menu-heading::after, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-heading::after { top: 0px; }
+  #p-lang-btn .vector-menu-heading.mw-ui-progressive.mw-ui-quiet .mw-ui-icon::before, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-heading.mw-ui-progressive.mw-ui-quiet .mw-ui-icon::before { opacity: 1; }
+  #p-lang-btn .vector-menu-heading.mw-ui-progressive.mw-ui-quiet::after, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-heading.mw-ui-progressive.mw-ui-quiet::after { background-image: url("/w/skins/Vector/resources/common/images/arrow-down-progressive.svg?f0b59"); opacity: 1; }
+  #p-lang-btn input:active + .vector-menu-heading.mw-ui-progressive.mw-ui-quiet .mw-ui-icon, .vector-language-in-header-enabled .mw-portlet-lang input:active + .vector-menu-heading.mw-ui-progressive.mw-ui-quiet .mw-ui-icon { filter: brightness(0) invert(1); }
+  #p-lang-btn input:active + .vector-menu-heading.mw-ui-progressive.mw-ui-quiet::after, .vector-language-in-header-enabled .mw-portlet-lang input:active + .vector-menu-heading.mw-ui-progressive.mw-ui-quiet::after { background-image: url("/w/skins/Vector/resources/common/images/arrow-down-invert.svg?e24ea"); }
+  #p-lang-btn .vector-menu-content, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-content { top: auto; left: -1px; right: -1px; box-sizing: border-box; max-height: 65vh; overflow: auto; display: none; }
+  #p-lang-btn .vector-menu-content li a, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-content li a { font-size: inherit; }
+  #p-lang-btn .vector-menu-checkbox:checked ~ .vector-menu-content, .vector-language-in-header-enabled .mw-portlet-lang .vector-menu-checkbox:checked ~ .vector-menu-content { display: block; }
+  #p-lang-btn .after-portlet, .vector-language-in-header-enabled .mw-portlet-lang .after-portlet { margin-top: 10px; }
+  #p-lang-btn.mw-portlet-empty { display: none; }
+  #p-lang-btn-sticky-header { position: relative; padding-right: calc(30px); white-space: nowrap; }
+  #p-lang-btn-sticky-header::after { content: ""; background-image: url("/w/skins/Vector/resources/common/images/arrow-down.svg?9426f"); background-position: 100% 50%; background-repeat: no-repeat; position: absolute; top: 0px; right: 12px; bottom: 0px; width: 18px; opacity: 0.84; }
+  .vector-user-links { display: flex; align-items: center; position: relative; justify-content: flex-end; flex-shrink: 1; }
+  .vector-user-links .vector-user-menu-more { font-size: 0.875em; }
+  .vector-user-links .vector-user-menu-more .vector-menu-content-list { display: flex; align-items: center; }
+  .vector-user-links .vector-user-menu-more .vector-menu-content-list li { margin: 0px; white-space: nowrap; }
+  .vector-user-links .vector-user-menu-more .vector-menu-content-list li a { color: rgb(32, 33, 34); text-decoration: none; }
+  .vector-user-links .vector-user-menu-more .vector-menu-content-list li.user-links-collapsible-item { display: none; }
+  .vector-user-links .vector-user-menu-more .mw-ui-button { display: flex; align-items: center; }
+  .vector-user-links .vector-user-menu-more #pt-userpage-2 { max-width: 11.0714em; }
+  .vector-user-links .vector-user-menu-more #pt-userpage-2 span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .vector-user-links .vector-user-menu.emptyPortlet { display: block; }
+  .vector-user-links .vector-user-menu .vector-menu-heading .mw-ui-icon ~ span { display: block; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; position: absolute !important; }
+  .vector-user-links .vector-user-menu .vector-menu-content { min-width: 200px; max-width: 21.875em; top: 100%; left: unset; right: 0px; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 2px 0px; }
+  .vector-user-links .vector-user-menu .mw-list-item { width: 100%; }
+  .vector-user-links .vector-user-menu .vector-menu-content-item, .vector-user-links .vector-user-menu .mw-list-item > a { min-height: 2em; display: flex; align-items: center; padding: 0px 12px; color: rgb(32, 33, 34); text-decoration: none; }
+  .vector-user-links .vector-user-menu .vector-menu-content-item span:not(.mw-ui-icon), .vector-user-links .vector-user-menu .mw-list-item > a span:not(.mw-ui-icon) { font-size: 0.875em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 1.16667; }
+  .vector-user-links .vector-user-menu .vector-menu-content-item:hover, .vector-user-links .vector-user-menu .mw-list-item > a:hover { background-color: rgb(246, 246, 246); }
+  .vector-user-links .vector-user-menu .vector-menu-content-item-login { border-bottom: 1px solid rgb(162, 169, 177); }
+  .vector-user-links .vector-user-menu .vector-user-menu-anon-editor { padding: 4px 12px; color: rgb(84, 89, 93); font-size: 0.875em; }
+  .vector-user-links .vector-user-menu .vector-user-menu-anon-editor p { margin: 0px; }
+  .vector-user-links .vector-user-menu .vector-user-menu-anon-editor a::before { content: "("; color: rgb(84, 89, 93); }
+  .vector-user-links .vector-user-menu .vector-user-menu-anon-editor a::after { content: ")"; color: rgb(84, 89, 93); }
+  .vector-user-links .vector-user-menu .vector-menu-content-item-logout { border-top: 1px solid rgb(162, 169, 177); }
+  .vector-user-links .vector-user-menu #pt-tmpuserpage { padding: 4px 12px; color: rgb(84, 89, 93); font-size: 0.875em; }
+  .vector-user-links .vector-user-menu-logged-out .vector-menu-heading::before { height: 100%; }
+  .vector-user-links .vector-user-menu-logged-out .vector-menu-heading::after { content: none; }
+  .vector-user-links .vector-user-menu-logged-in .vector-menu-heading { padding-right: 1.5em; }
+  .vector-user-links .vector-user-menu-logged-in .vector-menu-heading::before { color: rgb(84, 89, 93); }
+  .vector-user-links .vector-user-menu-logged-in .vector-menu-heading::after { background-position: 100% 0%; top: 1.125em; right: 0.75em; }
+  .mw-header { min-height: 3.125em; display: flex; flex-wrap: nowrap; align-items: center; }
+  .vector-layout-legacy .mw-header { margin: 0.5em 0px 2em; padding: 0px; }
+  .mw-header #mw-sidebar-button { float: left; margin-right: 0.75em; }
+  .mw-header-content, .mw-header-aside { display: flex; align-items: center; }
+  .mw-header-aside { float: left; }
+  .mw-header-content { flex-grow: 1; }
+  .vector-menu-tabs { float: left; height: 2.5em; padding-left: 1px; }
+  .vector-menu-tabs .vector-menu-heading { display: none; }
+  .vector-menu-tabs ul { float: left; height: 100%; list-style: none none; margin: 0px; padding: 0px; }
+  .vector-menu-tabs li { float: left; display: block; height: 100%; padding: 0px; line-height: 1.125em; white-space: nowrap; }
+  .vector-menu-tabs li:first-child a { margin-left: 0px; }
+  .vector-menu-tabs li:last-child a { margin-right: 0px; }
+  .vector-menu-tabs li a { color: rgb(6, 69, 173); box-sizing: border-box; display: block; float: left; height: 3.07692em; position: relative; padding-top: 1.25em; margin: 0px 8px; font-size: 0.8125em; cursor: pointer; }
+  .vector-menu-tabs li a:hover { text-decoration: none; border-bottom: 1px solid; }
+  .vector-menu-tabs .new a, .vector-menu-tabs .new a:visited { color: rgb(221, 51, 51); }
+  .vector-menu-tabs .selected a { border-bottom: 1px solid; }
+  .vector-menu-tabs .selected a, .vector-menu-tabs .selected a:visited { color: rgb(32, 33, 34); }
+  .vector-menu-tabs .icon a { background-position: right bottom; background-repeat: no-repeat; }
+  .vector-sticky-header { width: 100%; height: 3.125rem; position: fixed; top: 0px; left: 0px; right: 0px; z-index: 4; transition: transform 250ms linear 0s; display: none; align-items: center; margin: 0px auto; background: rgba(255, 255, 255, 0.97); border-bottom: 1px solid rgb(234, 236, 240); padding: 6px 8px 6px 10px; justify-content: space-between; box-sizing: border-box; }
+  .client-js.vector-sticky-header-enabled :not(.vector-sticky-header-visible) .vector-sticky-header { transform: translateY(-100%); }
+  .client-js.vector-sticky-header-enabled :not(.vector-sticky-header-visible) .vector-sticky-header > div { display: none; }
+  .client-nojs .vector-sticky-header { display: none; }
+  .vector-sticky-header-start, .vector-sticky-header-end, .vector-sticky-header-icons, .vector-sticky-header-context-bar { display: flex; align-items: center; }
+  .vector-sticky-header-start { flex-grow: 1; min-width: 0px; }
+  .vector-sticky-header-context-bar { border-left: 1px solid rgb(200, 200, 200); margin: 0px 15px; padding-left: 30px; white-space: nowrap; min-width: 0px; }
+  .vector-sticky-header-context-bar-primary { overflow: hidden; font-family: "Linux Libertine", Georgia, Times, serif; font-size: 1.5em; text-overflow: ellipsis; }
+  .vector-sticky-header-context-bar-primary wbr { display: none; }
+  .vector-sticky-header .vector-search-box { display: none; }
+  .vector-sticky-header.vector-header-search-toggled .vector-sticky-header-search-toggle, .vector-sticky-header.vector-header-search-toggled .vector-sticky-header-context-bar { display: none; }
+  .vector-sticky-header.vector-header-search-toggled .vector-search-box { display: block; margin-left: 4px; }
+  .vector-sticky-header.vector-header-search-toggled .vector-search-box-show-thumbnail { margin-left: -8px; }
+  .vector-sticky-header.vector-header-search-toggled .vector-search-box-show-thumbnail .wvui-input__start-icon { color: rgb(32, 33, 34); }
+  .client-js .vector-sticky-header-visible .mw-sticky-header-element, .client-js .vector-sticky-header-visible .charts-stickyhead th { top: 3.125rem !important; }
+  .sidebar-toc { display: none; width: 13.75em; max-height: 75vh; padding: 20px 12px 20px 32px; box-sizing: border-box; overflow: auto; background-color: rgb(248, 249, 250); }
+  .sidebar-toc .sidebar-toc-header { padding-bottom: 12px; }
+  .sidebar-toc .sidebar-toc-title { color: rgb(84, 89, 93); font-size: 0.875em; margin: 0px; padding: 0px; border: 0px; }
+  .sidebar-toc .sidebar-toc-numb { display: none; }
+  .sidebar-toc .sidebar-toc-link { word-break: break-word; color: rgb(6, 69, 173); }
+  .sidebar-toc .sidebar-toc-text { padding: 4px 0px; }
+  .sidebar-toc .sidebar-toc-contents, .sidebar-toc .sidebar-toc-list { margin: 0px; list-style: none; line-height: 18px; }
+  .sidebar-toc .sidebar-toc-contents { padding-bottom: calc(10px); }
+  .sidebar-toc .sidebar-toc-list-item { display: block; position: relative; list-style-type: none; padding-left: 8px; }
+  .sidebar-toc .sidebar-toc-list-item a { font-size: 0.875em; }
+  .sidebar-toc .sidebar-toc-list-item.sidebar-toc-level-1 { padding-left: 0px; }
+  .sidebar-toc::after { content: ""; display: block; position: absolute; bottom: 0px; left: 0.75em; right: 1px; height: 40px; background: linear-gradient(rgba(255, 255, 255, 0), rgb(248, 249, 250)); pointer-events: none; }
+  .sidebar-toc .sidebar-toc-list-item-active > .sidebar-toc-link { color: rgb(32, 33, 34); }
+  .sidebar-toc .sidebar-toc-toggle { display: none; cursor: pointer; }
+  .client-js .sidebar-toc .sidebar-toc-level-1 .sidebar-toc-list-item { display: none; }
+  .client-js .sidebar-toc .sidebar-toc-level-1.sidebar-toc-list-item-expanded .sidebar-toc-list-item { display: block; }
+  .client-js .sidebar-toc .sidebar-toc-toggle { position: absolute; top: 1px; left: calc(-1.834em - 1px); display: block; width: 1.834em; height: 1.834em; font-size: 0.75em; transition: all 100ms ease 0s; }
+  .client-js .sidebar-toc .sidebar-toc-level-1.sidebar-toc-list-item-expanded .sidebar-toc-toggle { transform: rotate(0deg); }
+  .client-js body.ltr .sidebar-toc .sidebar-toc-toggle { transform: rotate(-90deg); }
+  .client-js body.rtl .sidebar-toc .sidebar-toc-toggle { transform: rotate(90deg); }
+  #vector-toc-collapsed-button { display: none; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-layout-legacy #mw-panel { left: -2.5em; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-toc-enabled .vector-layout-legacy #mw-panel { float: left; }
+}
+
+@media screen and (min-width: 1000px) {
+  .mw-page-container { padding-left: 2em; padding-right: 2em; }
+}
+
+@media screen and (min-width: 1200px) {
+  .mw-page-container { padding-left: 2.5em; padding-right: 2.5em; }
+}
+
+@media screen and (min-width: 98.625em) {
+  .mw-page-container { border-left: 1px solid rgb(248, 249, 250); border-right: 1px solid rgb(248, 249, 250); }
+}
+
+@media screen and (max-width: 87em) {
+  .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container { margin-left: 11.5em; }
+  .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container { margin-left: 15.25em; }
+  .vector-animations-ready .mw-sidebar { transition: none 0s ease 0s; }
+}
+
+@media screen and (min-width: 1000px) {
+  .skin-vector-disable-max-width .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, body:not(.skin-vector-toc-experiment-control):not(.skin-vector-toc-experiment-unsampled) .vector-layout-legacy .vector-toc-visible .mw-workspace-container .mw-content-container, body:not(.skin-vector-toc-experiment-control):not(.skin-vector-toc-experiment-unsampled) .vector-layout-legacy .vector-toc-visible #mw-navigation .mw-article-toolbar-container, .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container { margin-left: 15.25em; }
+}
+
+@media screen and (min-width: 1200px) {
+  .skin-vector-disable-max-width .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, body:not(.skin-vector-toc-experiment-control):not(.skin-vector-toc-experiment-unsampled) .vector-layout-legacy .vector-toc-visible .mw-workspace-container .mw-content-container, body:not(.skin-vector-toc-experiment-control):not(.skin-vector-toc-experiment-unsampled) .vector-layout-legacy .vector-toc-visible #mw-navigation .mw-article-toolbar-container, .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, .vector-toc-enabled .vector-layout-legacy #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container { margin-left: 18.5em; }
+}
+
+@media screen and (max-width: 999px) {
+  #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-panel { width: 100%; }
+  #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-content-container, #mw-sidebar-checkbox:checked ~ .mw-workspace-container #mw-navigation .mw-article-toolbar-container { margin-left: 0px !important; }
+}
+
+@media screen and (max-width: 999px) {
+  .vector-layout-grid .mw-header { height: 66px; margin-bottom: 24px; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-layout-grid .mw-page-container-inner { display: grid; width: 100%; grid-template: "header header header" 66px "sidebar gutter content" min-content "toc gutter content" 1fr "footer footer footer" min-content / 232px 20px minmax(0px, 1fr); row-gap: 24px; }
+  .vector-layout-grid .mw-body { padding-left: 0px; }
+  .vector-layout-grid .mw-table-of-contents-container { grid-area: toc / toc / toc / toc; }
+  .vector-layout-grid .mw-header { grid-area: header / header / header / header; }
+  .vector-layout-grid .vector-sidebar-container { grid-area: sidebar / sidebar / sidebar / sidebar; }
+  .vector-layout-grid .mw-content-container { grid-area: content / content / content / content; }
+  .vector-layout-grid #mw-sidebar-checkbox:not(:checked) ~ .vector-sidebar-container-no-toc ~ .mw-content-container { padding-left: 8px; }
+  .vector-layout-grid .mw-footer-container { grid-area: footer / footer / footer / footer; padding-top: 26px; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-layout-grid .mw-page-container-inner { grid-template-columns: 284px 20px 1fr; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-article-toolbar .mw-article-toolbar-container { padding-right: 7px; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-article-toolbar .mw-article-toolbar-container #right-navigation { margin-right: -0.214286em; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-article-toolbar .mw-article-toolbar-container #left-navigation { margin-left: 0.214286em; }
+}
+
+@media screen and (min-width: 720px) {
+  .vector-article-toolbar .mw-article-toolbar-container .mw-portlet-views:not(.emptyPortlet) { display: block; }
+}
+
+@media screen and (min-width: 720px) {
+  .vector-article-toolbar .mw-article-toolbar-container .vector-more-collapsible-item { display: none; }
+}
+
+@media screen and (max-width: 719px) {
+  .vector-article-toolbar .mw-article-toolbar-container .vector-has-collapsible-items { display: block; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-toc-enabled .mw-sidebar, .vector-toc-enabled .sidebar-toc { margin-left: 0.75em; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-toc-enabled .mw-sidebar { width: 15.25em; }
+}
+
+@media screen and (max-width: 999px) {
+  .vector-toc-enabled #mw-sidebar-checkbox:checked ~ .mw-workspace-container .mw-sidebar { margin-top: 0px; }
+}
+
+@media screen and (min-width: 98.625em) {
+  .mw-sidebar { background: rgb(255, 255, 255); border-right: 1px solid rgb(248, 249, 250); }
+}
+
+@media screen and (max-width: 719px) {
+  .vector-animations-ready .mw-sidebar { transition: none 0s ease 0s; }
+}
+
+@media screen and (min-width: 720px) {
+  .vector-user-links .vector-user-menu-more .vector-menu-content-list li.user-links-collapsible-item { display: block; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-user-links .vector-user-menu-more #pt-userpage-2 { max-width: 14.2857em; }
+}
+
+@media screen and (min-width: 720px) {
+  .vector-user-links .vector-user-menu .vector-menu-content .user-links-collapsible-item { display: none; }
+}
+
+@media screen and (min-width: 1200px) {
+  .mw-header .vector-search-box:not(.vector-search-box-auto-expand-width), html:not(.client-js) .mw-header .vector-search-box { padding-left: 24px; }
+}
+
+@media screen and (min-width: 1000px) {
+  .mw-header .vector-search-box { margin-right: 12px; }
+}
+
+@media screen and (max-width: 999px) {
+  .mw-header.vector-header-search-toggled #mw-sidebar-button, .mw-header.vector-header-search-toggled .mw-logo, .mw-header.vector-header-search-toggled .search-toggle { display: none; }
+  .mw-header.vector-header-search-toggled .vector-search-box-collapses > div { display: block; }
+  .mw-header.vector-header-search-toggled .vector-search-box { position: relative; margin-left: 8px; margin-right: 12px; }
+  .mw-header.vector-header-search-toggled .vector-search-box > div { max-width: none; }
+  .mw-header.vector-header-search-toggled .wvui-typeahead-search__wrapper { position: static; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-sticky-header { padding: 6px 25px; max-width: 98.625em; }
+}
+
+@media screen and (min-width: 1200px) {
+  .vector-sticky-header { padding: 6px 25px; max-width: 99.625em; }
+}
+
+@media screen and (min-width: 1000px) {
+  .vector-sticky-header { display: flex; }
+}
+
+@media screen and (min-width: 720px) {
+  .client-js.vector-sticky-header-enabled { scroll-padding-top: 3.125rem; }
+}
+
+@media screen and (min-width: 1200px) {
+  .sidebar-toc { width: 15.25em; padding-right: 8px; }
+}
+
+@media screen and (min-width: 1000px) {
+  .sidebar-toc { display: block; }
+}
+
+@media screen and (max-width: 999px) {
+  .skin-vector-toc-experiment-treatment #toc { display: table; }
+}
+
+@media screen and (max-width: 999px) {
+  #vector-toc-collapsed-button, .sidebar-toc { z-index: 3; }
+  #vector-toc-collapsed-button { display: block; float: left; margin-right: 4px; margin-left: -10px; padding: 7px 10px; background-color: rgb(255, 255, 255); }
+  #vector-toc-collapsed-button:hover, #vector-toc-collapsed-button:active { background-color: rgb(248, 249, 250); }
+  .mw-table-of-contents-container { position: relative; top: 0px; }
+  .sidebar-toc { position: absolute; top: 44px; left: -2px; background-color: rgb(255, 255, 255); border: 1px solid rgb(162, 169, 177); margin-top: 0px !important; }
+  .sidebar-toc::after { display: none; }
+  #vector-toc-collapsed-checkbox:checked ~ .mw-table-of-contents-container .sidebar-toc { display: block; }
+  .vector-below-page-title #vector-toc-collapsed-button, .vector-below-page-title .sidebar-toc { position: fixed; }
+  .vector-below-page-title #vector-toc-collapsed-button { top: 0px; left: 0px; margin: 0px; }
+  .vector-below-page-title .sidebar-toc { top: 36px; left: 6px; }
+}
+
+@media all {
+  .mw-logo { display: flex; height: 100%; align-items: center; min-width: 13.875em; }
+  .mw-logo-icon { float: left; margin-right: 10px; display: none; width: 3.125em; height: 3.125em; }
+  .mw-logo-container { float: left; max-width: 120px; }
+  .mw-logo-container img { width: 100%; }
+  .mw-logo-wordmark { display: block; margin: 0px auto; }
+  .mw-logo-tagline { display: block; margin: 5px auto 0px; }
+}
+
+@media (min-width: 720px) {
+  .mw-logo-icon { display: block; }
+}
+
+@media (min-width: 720px) {
+  .mw-logo-container { max-width: none; }
+  .mw-logo-container img { width: auto; }
+}
+
+@media print {
+  .vector-article-toolbar, #mw-sidebar-checkbox, .mw-header-aside > :not(.mw-logo), .mw-header-content, #mw-panel-toc, #vector-sticky-header, #p-lang-btn, #footer { display: none; }
+}
+
+.vector-layout-grid .mw-table-of-contents-container { display: none; }
+
+@supports (display:grid) {
+  .vector-layout-grid .mw-table-of-contents-container { display: block; }
+}
+
+@media screen {
+  div.thumbinner { border: 1px solid rgb(200, 204, 209); background-color: rgb(248, 249, 250); font-size: 94%; }
+  .thumbimage { background-color: rgb(255, 255, 255); border: 1px solid rgb(200, 204, 209); }
+  .thumbcaption { border: 0px; font-size: 94%; }
+  .thumbborder { border: 1px solid rgb(234, 236, 240); }
+  .magnify { float: right; margin-left: 3px; }
+  .magnify a { display: block; text-indent: 15px; white-space: nowrap; overflow: hidden; width: 15px; height: 11px; background-image: url("/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e"); user-select: none; }
+  .mw-content-ltr .thumbcaption { text-align: left; }
+  .mw-content-rtl .thumbcaption { text-align: right; }
+  .mw-content-ltr .magnify { margin-left: 3px; margin-right: 0px; float: right; }
+  .mw-content-ltr .magnify a { background-image: url("/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e"); }
+  .mw-content-rtl .magnify { margin-left: 0px; margin-right: 3px; float: left; }
+  .mw-content-rtl .magnify a { background-image: url("/w/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg?38fd5"); }
+  figure[typeof~="mw:File/Thumb"], figure[typeof~="mw:File/Frame"], figure[typeof~="mw:Image/Thumb"], figure[typeof~="mw:Video/Thumb"], figure[typeof~="mw:Audio/Thumb"], figure[typeof~="mw:Image/Frame"], figure[typeof~="mw:Video/Frame"], figure[typeof~="mw:Audio/Frame"] { border-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(200, 204, 209); border-right-color: rgb(200, 204, 209); border-left-color: rgb(200, 204, 209); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; background-color: rgb(248, 249, 250); }
+  figure[typeof~="mw:File/Thumb"] > :first-child > audio, figure[typeof~="mw:File/Frame"] > :first-child > audio, figure[typeof~="mw:Image/Thumb"] > :first-child > audio, figure[typeof~="mw:Video/Thumb"] > :first-child > audio, figure[typeof~="mw:Audio/Thumb"] > :first-child > audio, figure[typeof~="mw:Image/Frame"] > :first-child > audio, figure[typeof~="mw:Video/Frame"] > :first-child > audio, figure[typeof~="mw:Audio/Frame"] > :first-child > audio, figure[typeof~="mw:File/Thumb"] > :first-child > img, figure[typeof~="mw:File/Frame"] > :first-child > img, figure[typeof~="mw:Image/Thumb"] > :first-child > img, figure[typeof~="mw:Video/Thumb"] > :first-child > img, figure[typeof~="mw:Audio/Thumb"] > :first-child > img, figure[typeof~="mw:Image/Frame"] > :first-child > img, figure[typeof~="mw:Video/Frame"] > :first-child > img, figure[typeof~="mw:Audio/Frame"] > :first-child > img, figure[typeof~="mw:File/Thumb"] > :first-child > video, figure[typeof~="mw:File/Frame"] > :first-child > video, figure[typeof~="mw:Image/Thumb"] > :first-child > video, figure[typeof~="mw:Video/Thumb"] > :first-child > video, figure[typeof~="mw:Audio/Thumb"] > :first-child > video, figure[typeof~="mw:Image/Frame"] > :first-child > video, figure[typeof~="mw:Video/Frame"] > :first-child > video, figure[typeof~="mw:Audio/Frame"] > :first-child > video { border: 1px solid rgb(200, 204, 209); background: rgb(255, 255, 255); }
+  figure[typeof~="mw:File/Thumb"] > figcaption, figure[typeof~="mw:File/Frame"] > figcaption, figure[typeof~="mw:Image/Thumb"] > figcaption, figure[typeof~="mw:Video/Thumb"] > figcaption, figure[typeof~="mw:Audio/Thumb"] > figcaption, figure[typeof~="mw:Image/Frame"] > figcaption, figure[typeof~="mw:Video/Frame"] > figcaption, figure[typeof~="mw:Audio/Frame"] > figcaption { border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(200, 204, 209); border-bottom-color: rgb(200, 204, 209); border-left-color: rgb(200, 204, 209); border-image: initial; border-top-style: initial; border-top-color: initial; background-color: rgb(248, 249, 250); font-size: 88.4%; }
+  .mw-image-border > :first-child > audio, .mw-image-border > :first-child > img, .mw-image-border > :first-child > video { border: 1px solid rgb(234, 236, 240); }
+  figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before { content: ""; width: 15px; height: 11px; }
+  .mw-content-ltr figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-ltr figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-ltr figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-ltr figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before { margin-left: 3px; float: right; }
+  .mw-content-rtl figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-rtl figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-rtl figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before, .mw-content-rtl figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > figcaption::before { margin-right: 3px; float: left; }
+  figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > a, figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > a, figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > a, figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > a { display: inline-block; position: relative; }
+  figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > a::after, figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > a::after, figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > a::after, figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > a::after { content: ""; width: 15px; height: 11px; position: absolute; bottom: -11px; }
+  .mw-content-ltr figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-ltr figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-ltr figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-ltr figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > a::after { right: 6px; background-image: url("/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e"); }
+  .mw-content-rtl figure[typeof~="mw:File/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-rtl figure[typeof~="mw:Image/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-rtl figure[typeof~="mw:Video/Thumb"]:not([typeof~="mw:Error"]) > a::after, .mw-content-rtl figure[typeof~="mw:Audio/Thumb"]:not([typeof~="mw:Error"]) > a::after { left: 6px; background-image: url("/w/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg?38fd5"); }
+  a.new { color: rgb(221, 51, 51); }
+  a.mw-selflink { color: inherit; font-weight: bold; text-decoration: inherit; }
+  a.mw-selflink:hover { cursor: inherit; text-decoration: inherit; }
+  a.mw-selflink:active, a.mw-selflink:visited { color: inherit; }
+  a.new:visited { color: rgb(165, 88, 88); }
+  .mw-parser-output a.extiw, .mw-parser-output a.external { color: rgb(51, 102, 187); }
+  .mw-parser-output a.extiw:visited, .mw-parser-output a.external:visited { color: rgb(102, 51, 102); }
+  .mw-parser-output a.extiw:active, .mw-parser-output a.external:active { color: rgb(187, 102, 51); }
+  .mw-underline-always a { text-decoration: underline; }
+  .mw-underline-never a { text-decoration: none; }
+  .plainlinks a.external { background: none !important; padding: 0px !important; }
+  .mw-body-content::after { clear: both; content: ""; display: block; }
+  .mw-body-content a.external.free { overflow-wrap: break-word; }
+  .mw-body-content .error { font-size: larger; color: rgb(221, 51, 51); }
+  .rtl .mw-parser-output a.external.free, .rtl .mw-parser-output a.external.autonumber { direction: ltr; unicode-bidi: embed; }
+  .mw-hide-empty-elt .mw-parser-output:not(.mw-show-empty-elt) .mw-empty-elt { display: none; }
+  .wikitable { background-color: rgb(248, 249, 250); color: rgb(32, 33, 34); margin: 1em 0px; border: 1px solid rgb(162, 169, 177); border-collapse: collapse; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td { border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em; }
+  .wikitable > tr > th, .wikitable > * > tr > th { background-color: rgb(234, 236, 240); text-align: center; }
+  .wikitable > caption { font-weight: bold; }
+  .usermessage { background-color: rgb(254, 246, 231); border: 1px solid rgb(255, 204, 51); color: rgb(0, 0, 0); font-weight: bold; margin: 2em 0px 1em; padding: 0.5em 1em; vertical-align: middle; }
+  #siteNotice { position: relative; text-align: center; margin: 0px; }
+  #localNotice { margin-bottom: 0.9em; }
+  #siteSub { display: none; }
+  #contentSub, #contentSub2 { font-size: 84%; line-height: 1.2em; margin: 0px 0px 1.4em 1em; color: rgb(84, 89, 93); width: auto; }
+  span.subpages { display: block; }
+  .emptyPortlet { display: none; }
+  .printfooter, .client-nojs #t-print { display: none; }
+  .mw-indicators { float: right; }
+  .mw-editsection { user-select: none; }
+  .mw-editsection, .mw-editsection-like { font-size: small; font-weight: normal; margin-left: 1em; vertical-align: baseline; line-height: 1em; }
+  .mw-content-ltr .mw-editsection, .mw-content-rtl .mw-content-ltr .mw-editsection, .mw-content-ltr .mw-editsection-like, .mw-content-rtl .mw-content-ltr .mw-editsection-like { margin-left: 1em; margin-right: 0px; }
+  .mw-content-rtl .mw-editsection, .mw-content-ltr .mw-content-rtl .mw-editsection, .mw-content-rtl .mw-editsection-like, .mw-content-ltr .mw-content-rtl .mw-editsection-like { margin-right: 1em; margin-left: 0px; }
+  #catlinks { text-align: left; }
+  .catlinks { border: 1px solid rgb(162, 169, 177); background-color: rgb(248, 249, 250); padding: 5px; margin-top: 1em; clear: both; }
+  .catlinks ul { display: inline; margin: 0px; padding: 0px; list-style: none; }
+  .catlinks li { display: inline-block; line-height: 1.25em; border-left: 1px solid rgb(162, 169, 177); margin: 0.125em 0px; padding: 0px 0.5em; }
+  .catlinks li:first-child { padding-left: 0.25em; border-left: 0px; }
+  .catlinks li a.mw-redirect { font-style: italic; }
+  .mw-hidden-cats-hidden, .catlinks-allhidden { display: none; }
+  a { text-decoration: none; color: rgb(6, 69, 173); background: none; }
+  a:not([href]) { cursor: pointer; }
+  a:visited { color: rgb(11, 0, 128); }
+  a:active { color: rgb(250, 167, 0); }
+  a:hover, a:focus { text-decoration: underline; }
+  a:lang(ar), a:lang(kk-arab), a:lang(mzn), a:lang(ps), a:lang(ur) { text-decoration: none; }
+  img { border: 0px; vertical-align: middle; }
+  hr { height: 1px; background-color: rgb(162, 169, 177); border: 0px; margin: 0.2em 0px; }
+  h1, h2, h3, h4, h5, h6 { color: rgb(0, 0, 0); margin: 0px; padding-top: 0.5em; padding-bottom: 0.17em; overflow: hidden; }
+  h1, h2 { margin-bottom: 0.6em; border-bottom: 1px solid rgb(162, 169, 177); }
+  h3, h4, h5 { margin-bottom: 0.3em; }
+  h1 { font-size: 188%; font-weight: normal; }
+  h2 { font-size: 150%; font-weight: normal; }
+  h3 { font-size: 128%; }
+  h4 { font-size: 116%; }
+  h5 { font-size: 108%; }
+  h6 { font-size: 100%; }
+  p { margin: 0.4em 0px 0.5em; }
+  p img { margin: 0px; }
+  ul { margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; list-style-image: none; }
+  li { margin-bottom: 0.1em; }
+  dt { font-weight: bold; margin-bottom: 0.1em; }
+  dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+  dd { margin-left: 1.6em; margin-bottom: 0.1em; }
+  pre, code, tt, kbd, samp, .mw-code { font-family: monospace, monospace; }
+  pre, code, .mw-code { background-color: rgb(248, 249, 250); color: rgb(0, 0, 0); border: 1px solid rgb(234, 236, 240); }
+  code { border-radius: 2px; padding: 1px 4px; }
+  pre, .mw-code { padding: 1em; white-space: pre-wrap; overflow-x: hidden; overflow-wrap: break-word; }
+  table { font-size: 100%; }
+  fieldset { border: 1px solid rgb(42, 75, 141); margin: 1em 0px; padding: 0px 1em 1em; }
+  legend { padding: 0.5em; }
+  form { border: 0px; margin: 0px; }
+  textarea { display: block; box-sizing: border-box; width: 100%; border: 1px solid rgb(200, 204, 209); padding: 0.1em; }
+  .center { width: 100%; text-align: center; }
+  .center * { margin-left: auto; margin-right: auto; }
+  .small { font-size: 94%; }
+  table.small { font-size: 100%; }
+  @counter-style meetei { system: numeric; symbols: "꯰" "꯱" "꯲" "꯳" "꯴" "꯵" "꯶" "꯷" "꯸" "꯹"; suffix: ") "; }
+  @counter-style santali { system: numeric; symbols: "᱐" "᱑" "᱒" "᱓" "᱔" "᱕" "᱖" "᱗" "᱘" "᱙"; }
+  @counter-style myanmar_with_period { system: numeric; symbols: "၀" "၁" "၂" "၃" "၄" "၅" "၆" "၇" "၈" "၉"; suffix: "။ "; }
+  ol:lang(azb) li, ol:lang(bcc) li, ol:lang(bgn) li, ol:lang(bqi) li, ol:lang(fa) li, ol:lang(glk) li, ol:lang(kk-arab) li, ol:lang(lrc) li, ol:lang(luz) li, ol:lang(mzn) li { list-style-type: persian; }
+  ol:lang(ckb) li, ol:lang(sdh) li { list-style-type: arabic-indic; }
+  ol:lang(hi) li, ol:lang(mai) li, ol:lang(mr) li, ol:lang(ne) li { list-style-type: devanagari; }
+  ol:lang(as) li, ol:lang(bn) li { list-style-type: bengali; }
+  ol:lang(mni) li { list-style-type: meetei; }
+  ol:lang(or) li { list-style-type: oriya; }
+  ol:lang(sat) li { list-style-type: santali; }
+  ol:lang(blk) li, ol:lang(kjp) li, ol:lang(ksw) li, ol:lang(mnw) li, ol:lang(my) li, ol:lang(shn) li { list-style-type: myanmar_with_period; }
+  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0px 0px 1.6em; padding: 0px; }
+  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.6em 0px 0px; padding: 0px; }
+  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0px 0px 3.2em; padding: 0px; }
+  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.2em 0px 0px; padding: 0px; }
+  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6em; margin-right: 0px; }
+  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.6em; margin-left: 0px; }
+  h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(bn), h1:lang(gu), h1:lang(hi), h1:lang(kn), h1:lang(ks), h1:lang(ml), h1:lang(mr), h1:lang(my), h1:lang(mai), h1:lang(ne), h1:lang(new), h1:lang(or), h1:lang(pa), h1:lang(pi), h1:lang(sa), h1:lang(ta), h1:lang(te) { line-height: 1.6em !important; }
+  h2:lang(anp), h3:lang(anp), h4:lang(anp), h5:lang(anp), h6:lang(anp), h2:lang(as), h3:lang(as), h4:lang(as), h5:lang(as), h6:lang(as), h2:lang(bho), h3:lang(bho), h4:lang(bho), h5:lang(bho), h6:lang(bho), h2:lang(bh), h3:lang(bh), h4:lang(bh), h5:lang(bh), h6:lang(bh), h2:lang(bn), h3:lang(bn), h4:lang(bn), h5:lang(bn), h6:lang(bn), h2:lang(gu), h3:lang(gu), h4:lang(gu), h5:lang(gu), h6:lang(gu), h2:lang(hi), h3:lang(hi), h4:lang(hi), h5:lang(hi), h6:lang(hi), h2:lang(kn), h3:lang(kn), h4:lang(kn), h5:lang(kn), h6:lang(kn), h2:lang(ks), h3:lang(ks), h4:lang(ks), h5:lang(ks), h6:lang(ks), h2:lang(ml), h3:lang(ml), h4:lang(ml), h5:lang(ml), h6:lang(ml), h2:lang(mr), h3:lang(mr), h4:lang(mr), h5:lang(mr), h6:lang(mr), h2:lang(my), h3:lang(my), h4:lang(my), h5:lang(my), h6:lang(my), h2:lang(mai), h3:lang(mai), h4:lang(mai), h5:lang(mai), h6:lang(mai), h2:lang(ne), h3:lang(ne), h4:lang(ne), h5:lang(ne), h6:lang(ne), h2:lang(new), h3:lang(new), h4:lang(new), h5:lang(new), h6:lang(new), h2:lang(or), h3:lang(or), h4:lang(or), h5:lang(or), h6:lang(or), h2:lang(pa), h3:lang(pa), h4:lang(pa), h5:lang(pa), h6:lang(pa), h2:lang(pi), h3:lang(pi), h4:lang(pi), h5:lang(pi), h6:lang(pi), h2:lang(sa), h3:lang(sa), h4:lang(sa), h5:lang(sa), h6:lang(sa), h2:lang(ta), h3:lang(ta), h4:lang(ta), h5:lang(ta), h6:lang(ta), h2:lang(te), h3:lang(te), h4:lang(te), h5:lang(te), h6:lang(te) { line-height: 1.4em; }
+  h2:lang(th) { line-height: 1.6; }
+  .toc, .toccolours { border: 1px solid rgb(162, 169, 177); background-color: rgb(248, 249, 250); padding: 5px; font-size: 95%; }
+  .toc { display: table; padding: 7px; }
+  .toc h2 { display: inline; border: 0px; padding: 0px; font-size: 100%; font-weight: bold; }
+  .toc .toctitle { text-align: center; }
+  .toc ul { list-style: none; margin: 0.3em 0px; padding: 0px; text-align: left; }
+  .toc ul ul { margin: 0px 0px 0px 2em; }
+  table.toc { border-collapse: collapse; }
+  table.toc td { padding: 0px; }
+  .tocnumber, .toctext { display: table-cell; text-decoration: inherit; }
+  .tocnumber { color: rgb(32, 33, 34); padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  .toctogglecheckbox { position: absolute; opacity: 0; z-index: -1; display: inline !important; }
+  .toctogglespan { font-size: 94%; }
+  .toctogglespan::before { content: " ["; }
+  .toctogglespan::after { content: "]"; }
+  .toctogglelabel { cursor: pointer; color: rgb(6, 69, 173); }
+  .toctogglelabel:hover { text-decoration: underline; }
+  .toctogglecheckbox:focus + .toctitle .toctogglelabel { text-decoration: underline; outline: -webkit-focus-ring-color auto; }
+  .toctogglecheckbox:checked + .toctitle .toctogglelabel::after { content: "show"; }
+  .toctogglecheckbox:not(:checked) + .toctitle .toctogglelabel::after { content: "hide"; }
+  .toc .toctitle { direction: ltr; }
+  .mw-content-ltr .toc ul, .mw-content-rtl .mw-content-ltr .toc ul { text-align: left; }
+  .mw-content-rtl .toc ul, .mw-content-ltr .mw-content-rtl .toc ul { text-align: right; }
+  .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul { margin: 0px 0px 0px 2em; }
+  .mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl .toc ul ul { margin: 0px 2em 0px 0px; }
+}
+
+@media print {
+  table.floatright, div.floatright { border: 0px; }
+  table.floatleft, div.floatleft { border: 0px; }
+  div.thumb { break-inside: avoid; }
+  div.thumb a { border-bottom: 0px; }
+  div.thumbinner { border: 1px; background-color: rgb(255, 255, 255); font-size: 10pt; color: rgb(102, 102, 102); border-radius: 2px; min-width: 100px; }
+  .thumbborder { border: 1pt solid rgb(221, 221, 221); }
+  .magnify { display: none; }
+  figure[typeof~="mw:File/Thumb"], figure[typeof~="mw:File/Frame"], figure[typeof~="mw:Image/Thumb"], figure[typeof~="mw:Video/Thumb"], figure[typeof~="mw:Audio/Thumb"], figure[typeof~="mw:Image/Frame"], figure[typeof~="mw:Video/Frame"], figure[typeof~="mw:Audio/Frame"] { border-width: 1px 1px 0px; border-style: initial; border-color: initial; border-image: initial; background-color: rgb(255, 255, 255); }
+  figure[typeof~="mw:File/Thumb"] > :first-child > audio, figure[typeof~="mw:File/Frame"] > :first-child > audio, figure[typeof~="mw:Image/Thumb"] > :first-child > audio, figure[typeof~="mw:Video/Thumb"] > :first-child > audio, figure[typeof~="mw:Audio/Thumb"] > :first-child > audio, figure[typeof~="mw:Image/Frame"] > :first-child > audio, figure[typeof~="mw:Video/Frame"] > :first-child > audio, figure[typeof~="mw:Audio/Frame"] > :first-child > audio, figure[typeof~="mw:File/Thumb"] > :first-child > img, figure[typeof~="mw:File/Frame"] > :first-child > img, figure[typeof~="mw:Image/Thumb"] > :first-child > img, figure[typeof~="mw:Video/Thumb"] > :first-child > img, figure[typeof~="mw:Audio/Thumb"] > :first-child > img, figure[typeof~="mw:Image/Frame"] > :first-child > img, figure[typeof~="mw:Video/Frame"] > :first-child > img, figure[typeof~="mw:Audio/Frame"] > :first-child > img, figure[typeof~="mw:File/Thumb"] > :first-child > video, figure[typeof~="mw:File/Frame"] > :first-child > video, figure[typeof~="mw:Image/Thumb"] > :first-child > video, figure[typeof~="mw:Video/Thumb"] > :first-child > video, figure[typeof~="mw:Audio/Thumb"] > :first-child > video, figure[typeof~="mw:Image/Frame"] > :first-child > video, figure[typeof~="mw:Video/Frame"] > :first-child > video, figure[typeof~="mw:Audio/Frame"] > :first-child > video { border: 1px; }
+  figure[typeof~="mw:File/Thumb"] > figcaption, figure[typeof~="mw:File/Frame"] > figcaption, figure[typeof~="mw:Image/Thumb"] > figcaption, figure[typeof~="mw:Video/Thumb"] > figcaption, figure[typeof~="mw:Audio/Thumb"] > figcaption, figure[typeof~="mw:Image/Frame"] > figcaption, figure[typeof~="mw:Video/Frame"] > figcaption, figure[typeof~="mw:Audio/Frame"] > figcaption { border-width: 0px 1px 1px; border-style: initial; border-color: initial; border-image: initial; background-color: rgb(255, 255, 255); font-size: 10pt; color: rgb(102, 102, 102); }
+  .mw-image-border > :first-child > audio, .mw-image-border > :first-child > img, .mw-image-border > :first-child > video { border: 1pt solid rgb(221, 221, 221); }
+  .mw-parser-output a.external { }
+  .mw-parser-output a.external.text::after, .mw-parser-output a.external.autonumber::after { content: " (" attr(href) ")"; word-break: break-all; overflow-wrap: break-word; }
+  .mw-parser-output a.external.text[href^="//"]::after, .mw-parser-output a.external.autonumber[href^="//"]::after { content: " (https:" attr(href) ")"; }
+  .wikitable { background: rgb(255, 255, 255); margin: 1em 0px; border: 1pt solid rgb(170, 170, 170); border-collapse: collapse; font-size: 10pt; break-inside: avoid; }
+  .wikitable > caption { padding: 5px; font-size: 10pt; }
+  .wikitable > tr > th, .wikitable > tr > td, .wikitable > * > tr > th, .wikitable > * > tr > td { border: 1pt solid rgb(170, 170, 170); padding: 0.4em 0.6em; background: rgb(255, 255, 255) !important; color: rgb(0, 0, 0) !important; }
+  .wikitable > tr > th, .wikitable > * > tr > th { text-align: center; }
+  table.listing, table.listing td { border: 1pt solid rgb(0, 0, 0); border-collapse: collapse; }
+  .mw-editsection, .mw-editsection-like, .mw-indicators, #siteNotice, .usermessage { display: none; }
+  .printfooter { padding: 1em 0px; }
+  .catlinks ul { display: inline; padding: 0px; list-style: none; }
+  .catlinks li { display: inline-block; line-height: 1.15; margin: 0.1em 0px; border-left: 1pt solid rgb(170, 170, 170); padding: 0px 0.4em; }
+  .catlinks li:first-child { border-left: 0px; padding-left: 0.2em; }
+  .mw-hidden-catlinks, .catlinks { display: none; }
+  .center { text-align: center; }
+  a { background: none !important; padding: 0px !important; }
+  a, a.external, a.new, a.stub { color: inherit !important; text-decoration: inherit !important; }
+  dt { font-weight: bold; }
+  h1, h2, h3, h4, h5, h6 { font-weight: bold; break-after: avoid; break-before: avoid; }
+  p { margin: 1em 0px; line-height: 1.2; orphans: 3; widows: 3; }
+  img, figure { break-inside: avoid; }
+  img { border: 0px; vertical-align: middle; }
+  pre, .mw-code { background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1pt dashed rgb(0, 0, 0); padding: 1em; font-size: 8pt; white-space: pre-wrap; overflow-x: hidden; overflow-wrap: break-word; }
+  ul { list-style-type: square; }
+  .toctogglecheckbox:checked + .toctitle { display: none; }
+  .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 170, 170); padding: 5px; display: table; }
+  .tocnumber, .toctext { display: table-cell; }
+  .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
+  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+}
+
+.wb-langlinks-link { line-height: 1.125em; font-size: 0.75em; float: right; }
+
+.wb-langlinks-link { list-style: none; text-align: right; padding-right: 0.5em !important; }
+
+.wb-langlinks-link > a::before { content: ""; background-image: url("/w/extensions/Wikibase/client/resources/images/edit.svg?34bc5"); background-position: left top; background-repeat: no-repeat; background-size: 10px 10px; display: inline-block; width: 10px; height: 10px; margin-right: 2px; vertical-align: top; }
+
+.wb-langlinks-link > a:link, .wb-langlinks-link > a:visited { color: rgb(84, 89, 93) !important; }
+
+.wb-langlinks-link > a:link::before, .wb-langlinks-link > a:visited::before { filter: grayscale(1); opacity: 0.73; }
+
+.wb-langlinks-link > a:hover { color: rgb(6, 69, 173) !important; }
+
+.wb-langlinks-link > a:hover::before { filter: none; opacity: 1; }
+
+div.after-portlet-lang::after { content: ""; clear: both; display: block; }
+
+.skin-vector:not(.skin-vector-legacy) .wb-langlinks-link { text-align: left; float: none; }
+
+.skin-vector:not(.skin-vector-legacy) .wb-langlinks-link a { color: rgb(6, 69, 173) !important; }
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/extensions/Translate/resources/images/prog-1.png?e272f
+
+PNG
+
+   
+IHDR   !   !   WäÂo   ³IDATXÃí=
+Ä F=In&7Øb¯*·ò§ÔÆF¬õ
+L±cLH`WÈ|â+tP ¬7$JBacläÃ9àüÂڡ&1mÀL$qYÂ{9ç"ÖZhÍbí¶DJ	FZ³X#	x·Rê»;ç ÆXDk
+­Y¬���ϡry¢Yá>$q*ñ&j­Øs»mWÏ]Q W½¬è¡Û[¢ÿ>ĽYºÛúåշc    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/extensions/Translate/resources/images/prog-2.png?47b49
+
+PNG
+
+   
+IHDR   !   !   WäÂo  IDATxÚí;
+@÷$ g±I#k¯*M 
+JXðÉ%B6ÕÄ)YXÍFò>DæwöCe ðuHB*¦©$ÉP:k×÷q>?ñ®Ö%aÖÀ0Iâi¢( ª*)ybký%°AÛU%(f±F$ñçY9wAC\LÊe»µçÝØ£Hքì!®/1QÝpV®.c½XFx(ÿêV¼ÍÄƆgÎe`MÈÎç%Óqð}¡ñ)ۢX²SÆL ÿx㈪K¼i³"	þ'°=çöҲÆ
+\×íºùPÄ?+q°YÜHtY    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/extensions/Translate/resources/images/prog-3.png?b5093
+
+PNG
+
+   
+IHDR   !   !   WäÂo  IDATxcøÿÿÿc¬£x÷îÜ۷oCÁ@µ@ºA|ôÊásDÿ§"Ù£øüùóÿ?bÅ?~üO¤Zَ |ýúõ?jArCÜ£uÄɵ×sοô,ºúÿĲXñ±å×þ©$¢dNG̎Ý5%aæbp«ÙMÙCÐ£¨ÓZ¬xZÀÎÿgVÝŊ{6ý'R-HE-È *BV|rém)~YöÿDªɡFÔPuĨ#FA8۵¬#%î`²1ê9 %gqÎ$A¯ܠ틎: @ó¾IçÖ=    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/extensions/Translate/resources/images/prog-5.png?2c8f4
+
+PNG
+
+   
+IHDR   !   !   WäÂo   ³IDATxcøÿÿÿc¬£0>Ã ġDâL£Ó}0ⓠW#¢ø?pɎuDñÿ»߭c®ü'R-H|Gl»ô?.Ðñ0û?jArCÝ£uÄ9\dÅq×Mÿ÷=.Ċ}.Éý'R-HE-È09Ë0È¸½£ &ÅáWõÈ/¶ib4:bÔC®eEÿ6æ¨#ul´C<à °59ìjµ~    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&skin=vector-2022&version=1hauh
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>
+		ellipsis
+	</title><g fill="#000"><circle cx="10" cy="10" r="2"/><circle cx="3" cy="10" r="2"/><circle cx="17" cy="10" r="2"/></g></svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?modules=skins.vector.icons&image=logIn&format=original&lang=en&skin=vector-2022&version=1hauh
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>
+		log in
+	</title><g fill="#000"><path d="M1 11v6c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2H3c-1.1 0-2 .9-2 2v6h8V5l4.75 5L9 15v-4H1z"/></g></svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?modules=skins.vector.icons&image=search&format=original&skin=vector-2022&version=1hauh
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>
+		search
+	</title><g fill="#000"><path d="M12.2 13.6a7 7 0 1 1 1.4-1.4l5.4 5.4-1.4 1.4-5.4-5.4zM3 8a5 5 0 1 0 10 0A5 5 0 1 0 3 8z"/></g></svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?modules=skins.vector.icons&image=userAdd&format=original&lang=en&skin=vector-2022&version=1hauh
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>
+		add user
+	</title><g fill="#000"><circle cx="8.5" cy="10.5" r="3.5"/><path d="M14 0v4h-4v2h4v4h2V6h4V4h-4V0h-2zM8 15c-4.6 0-7 2.69-7 4.23V20h14v-.77C15 17.69 12.6 15 8 15z"/></g></svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/skins/Vector/resources/common/images/bullet-icon.svg?d4515
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5" height="13">
+	<circle cx="2.5" cy="9" r="2.5" fill="#202122"/>
+</svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/skins/Vector/resources/common/images/arrow-down.svg?9426f
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+	<path fill="#202122" d="m11.05 3.996-.965-1.053-4.035 3.86-3.947-3.86L1.05 3.996l5 5 5-5"/>
+</svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/extensions/Wikibase/client/resources/images/edit.svg?34bc5
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+	<path fill="#0645ad" d="M10.5 4.7l1.3-1.3c.3-.3.3-.7 0-.9L9.6.2c-.3-.3-.7-.3-.9 0L7.3 1.5l3.2 3.2zM6.6 2.2L0 8.8V12h3.2l6.6-6.6-3.2-3.2z"/>
+</svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?lang=en&modules=ext.gadget.CharInsertButtons%2Csite-styles&only=styles&skin=vector-2022
+
+@charset "utf-8";
+
+.mw-charinsert-buttons { border: 1px solid rgb(170, 170, 170); margin-top: 10px; padding: 1px; font-size: 1.1em; text-align: center; }
+
+.mw-charinsert-buttons a { color: rgb(0, 0, 0); border: thin outset rgb(0, 102, 153); padding: 0px 1px 1px; font-weight: bold; font-size: 0.9em; text-decoration: none; background-color: rgb(204, 221, 238) !important; }
+
+.mw-charinsert-buttons a:hover, .mw-charinsert-buttons a:active { background-color: rgb(187, 204, 221); border-style: inset; }
+
+.client-js .mw-edittools-section { display: inline; }
+
+.client-js .mw-edittools-section input[type="button"] { font-size: 0.9em; margin-left: 1px; padding-left: 1px; padding-right: 1px; }
+
+.action-view.ns-12 #bodyContent { background-image: url("//upload.wikimedia.org/wikipedia/commons/6/67/PD-icon-faded.png"); background-repeat: no-repeat; background-position: right 5em; }
+
+.page-MediaWiki #lastmod, .page-MediaWiki #siteSub, .page-MediaWiki #contentSub, .page-MediaWiki .subtitle, .page-MediaWiki #jump-to-nav, .page-MediaWiki #firstHeading, [lang="en"] .page-MediaWiki .mw-parser-output h2 { display: none; }
+
+[lang="en"] .page-MediaWiki #firstHeading { font-size: 1.5em; display: block; }
+
+#toc { margin: 1em 0px; }
+
+:lang(fa) { font-family: ".Arabic UI Text", Tahoma, "Iranian Sans", "Noto Sans Arabic", "DejaVu Sans", sans-serif; }
+
+div.mw-warning-with-logexcerpt, div.mw-lag-warn-high, div.mw-cascadeprotectedwarning, div#mw-protect-cascadeon, div.titleblacklist-warning { clear: both; margin: 0.2em 0px; border: 1px solid rgb(187, 112, 112); background-color: rgb(255, 219, 219); padding: 0.25em 0.9em; box-sizing: border-box; }
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022
+
+@charset "utf-8";
+
+h1, h2, .firstHeading { font-feature-settings: "lnum"; }
+
+.mw-body sub, .mw-body sup, span.reference { font-size: 80%; }
+
+.page-Project_Support_desk #ca-talk a.mw-redirect { display: none; }
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/static/images/mobile/copyright/mediawiki.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" version="1.1" id="svg62"><defs id="defs11"><linearGradient id="gradient" gradientUnits="userSpaceOnUse" x1="0" x2="100" y1="100" y2="0"><stop offset="0%" stop-color="#0a00b2" id="stop2"/><stop offset="50%" stop-color="red" id="stop4"/><stop offset="100%" stop-color="#fffc00" id="stop6"/></linearGradient><linearGradient xlink:href="#gradient" id="linearGradient873" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient875" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient877" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient879" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient881" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient883" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient885" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient887" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient889" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient891" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient893" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient895" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient897" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient899" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient901" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient903" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient905" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient907" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient909" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient911" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient913" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient915" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient917" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient919" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><linearGradient xlink:href="#gradient" id="linearGradient921" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="100" y2="0"/><style id="style9">.petal{opacity:.65}</style></defs><g id="petals" transform="matrix(.5 0 0 .5 0 .026)" fill="url(#linearGradient921)"><path class="petal" d="M33.6 14.8a16.938 16.938 0 003.116 11.142 11.457 11.457 0 006.858 4.3 3.033 3.033 0 002.385-.713 11.924 11.924 0 003.634-10.837c-1.257-7.54-6.19-12.43-12.4-17A32.468 32.468 0 0033.6 14.8z" id="path13" opacity=".65" fill="url(#linearGradient873)"/><path class="petal" d="M25.117 20.232a16.938 16.938 0 005.893 9.956 11.457 11.457 0 007.738 2.381 3.033 3.033 0 002.119-1.306 11.924 11.924 0 00.705-11.409C38.406 12.9 32.376 9.449 25.2 6.642a32.468 32.468 0 00-.083 13.59z" id="path15" opacity=".65" fill="url(#linearGradient875)"/><path class="petal" d="M18.329 27.677a16.937 16.937 0 008.271 8.092 11.457 11.457 0 008.09.3 3.033 3.033 0 001.709-1.81 11.924 11.924 0 00-2.271-11.2c-4.859-5.9-11.576-7.67-19.237-8.523a32.466 32.466 0 003.438 13.141z" id="path17" opacity=".65" fill="url(#linearGradient877)"/><path class="petal" d="M13.7 36.626A16.938 16.938 0 0023.781 42.3a11.457 11.457 0 007.891-1.807 3.033 3.033 0 001.182-2.193 11.924 11.924 0 00-5.093-10.233c-6.221-4.443-13.167-4.412-20.787-3.254A32.468 32.468 0 0013.7 36.626z" id="path19" opacity=".65" fill="url(#linearGradient879)"/><path class="petal" d="M11.543 46.468a16.938 16.938 0 0011.208 2.873 11.457 11.457 0 007.155-3.788 3.034 3.034 0 00.575-2.422 11.924 11.924 0 00-7.568-8.566c-7.16-2.681-13.861-.854-20.923 2.235a32.468 32.468 0 009.553 9.668z" id="path21" opacity=".65" fill="url(#linearGradient881)"/><path class="petal" d="M12.008 56.532a16.938 16.938 0 0011.569-.126 11.457 11.457 0 005.931-5.51 3.033 3.033 0 00-.072-2.488 11.924 11.924 0 00-9.527-6.315C12.3 41.356 6.3 44.855.279 49.669a32.467 32.467 0 0011.729 6.863z" id="path23" opacity=".65" fill="url(#linearGradient883)"/><path class="petal" d="M15.062 66.134A16.938 16.938 0 0026.2 63.018a11.457 11.457 0 004.3-6.858 3.033 3.033 0 00-.713-2.385 11.924 11.924 0 00-10.837-3.634c-7.54 1.257-12.43 6.19-17 12.4a32.468 32.468 0 0013.112 3.593z" id="path25" opacity=".65" fill="url(#linearGradient885)"/><path class="petal" d="M20.5 74.618a16.938 16.938 0 009.956-5.893 11.457 11.457 0 002.381-7.738 3.033 3.033 0 00-1.306-2.119 11.925 11.925 0 00-11.409-.705c-6.958 3.166-10.4 9.2-13.212 16.376a32.466 32.466 0 0013.59.079z" id="path27" opacity=".65" fill="url(#linearGradient887)"/><path class="petal" d="M27.943 81.406a16.938 16.938 0 008.092-8.269 11.457 11.457 0 00.3-8.09 3.033 3.033 0 00-1.81-1.709 11.924 11.924 0 00-11.2 2.271c-5.9 4.859-7.67 11.576-8.523 19.237a32.467 32.467 0 0013.141-3.44z" id="path29" opacity=".65" fill="url(#linearGradient889)"/><path class="petal" d="M36.891 86.035a16.938 16.938 0 005.676-10.082 11.457 11.457 0 00-1.807-7.891 3.033 3.033 0 00-2.191-1.182 11.924 11.924 0 00-10.233 5.094c-4.443 6.221-4.412 13.167-3.254 20.787a32.467 32.467 0 0011.809-6.726z" id="path31" opacity=".65" fill="url(#linearGradient891)"/><path class="petal" d="M46.733 88.191a16.937 16.937 0 002.873-11.207 11.457 11.457 0 00-3.788-7.155 3.033 3.033 0 00-2.422-.575 11.924 11.924 0 00-8.566 7.568c-2.681 7.159-.854 13.86 2.237 20.921a32.465 32.465 0 009.666-9.552z" id="path33" opacity=".65" fill="url(#linearGradient893)"/><path class="petal" d="M56.8 87.726a16.937 16.937 0 00-.125-11.569 11.457 11.457 0 00-5.511-5.931 3.033 3.033 0 00-2.488.072 11.924 11.924 0 00-6.315 9.528c-.737 7.609 2.762 13.609 7.576 19.629A32.466 32.466 0 0056.8 87.726z" id="path35" opacity=".65" fill="url(#linearGradient895)"/><path class="petal" d="M66.4 84.672a16.938 16.938 0 00-3.116-11.142 11.457 11.457 0 00-6.858-4.3 3.033 3.033 0 00-2.385.713 11.924 11.924 0 00-3.634 10.837c1.257 7.54 6.19 12.43 12.4 17A32.468 32.468 0 0066.4 84.672z" id="path37" opacity=".65" fill="url(#linearGradient897)"/><path class="petal" d="M74.883 79.237a16.937 16.937 0 00-5.893-9.956 11.456 11.456 0 00-7.738-2.381 3.033 3.033 0 00-2.119 1.306 11.924 11.924 0 00-.705 11.409c3.166 6.958 9.2 10.4 16.375 13.212a32.468 32.468 0 00.08-13.59z" id="path39" opacity=".65" fill="url(#linearGradient899)"/><path class="petal" d="M81.671 71.792A16.938 16.938 0 0073.4 63.7a11.457 11.457 0 00-8.09-.3 3.033 3.033 0 00-1.708 1.81 11.924 11.924 0 002.271 11.2c4.859 5.9 11.576 7.67 19.237 8.523a32.466 32.466 0 00-3.439-13.141z" id="path41" opacity=".65" fill="url(#linearGradient901)"/><path class="petal" d="M86.3 62.843a16.938 16.938 0 00-10.082-5.676 11.457 11.457 0 00-7.891 1.807 3.033 3.033 0 00-1.182 2.191A11.924 11.924 0 0072.239 71.4c6.221 4.443 13.167 4.412 20.787 3.254A32.467 32.467 0 0086.3 62.843z" id="path43" opacity=".65" fill="url(#linearGradient903)"/><path class="petal" d="M88.457 53a16.938 16.938 0 00-11.207-2.873 11.457 11.457 0 00-7.155 3.788 3.033 3.033 0 00-.574 2.422 11.925 11.925 0 007.567 8.563c7.158 2.681 13.86.854 20.921-2.237A32.467 32.467 0 0088.457 53z" id="path45" opacity=".65" fill="url(#linearGradient905)"/><path class="petal" d="M87.992 42.936a16.938 16.938 0 00-11.569.126 11.457 11.457 0 00-5.931 5.511 3.033 3.033 0 00.072 2.488 11.924 11.924 0 009.527 6.315c7.609.737 13.609-2.762 19.63-7.576a32.468 32.468 0 00-11.729-6.864z" id="path47" opacity=".65" fill="url(#linearGradient907)"/><path class="petal" d="M84.938 33.335A16.938 16.938 0 0073.8 36.451a11.457 11.457 0 00-4.3 6.858 3.033 3.033 0 00.714 2.385 11.924 11.924 0 0010.837 3.634c7.54-1.257 12.43-6.19 17-12.4a32.466 32.466 0 00-13.113-3.593z" id="path49" opacity=".65" fill="url(#linearGradient909)"/><path class="petal" d="M79.5 24.851a16.938 16.938 0 00-9.956 5.893 11.457 11.457 0 00-2.381 7.738 3.033 3.033 0 001.309 2.118 11.924 11.924 0 0011.409.705c6.958-3.166 10.4-9.2 13.212-16.375a32.468 32.468 0 00-13.593-.079z" id="path51" opacity=".65" fill="url(#linearGradient911)"/><path class="petal" d="M72.057 18.063a16.938 16.938 0 00-8.092 8.269 11.457 11.457 0 00-.3 8.09 3.033 3.033 0 001.81 1.709 11.924 11.924 0 0011.2-2.271c5.9-4.859 7.67-11.576 8.523-19.237a32.467 32.467 0 00-13.141 3.44z" id="path53" opacity=".65" fill="url(#linearGradient913)"/><path class="petal" d="M63.109 13.434a16.937 16.937 0 00-5.676 10.082 11.457 11.457 0 001.807 7.891 3.033 3.033 0 002.191 1.182A11.924 11.924 0 0071.664 27.5c4.443-6.221 4.412-13.167 3.254-20.787a32.466 32.466 0 00-11.809 6.721z" id="path55" opacity=".65" fill="url(#linearGradient915)"/><path class="petal" d="M53.267 11.278a16.937 16.937 0 00-2.873 11.207 11.456 11.456 0 003.788 7.155 3.033 3.033 0 002.422.575 11.924 11.924 0 008.566-7.568c2.681-7.159.854-13.86-2.237-20.921a32.466 32.466 0 00-9.666 9.552z" id="path57" opacity=".65" fill="url(#linearGradient917)"/><path class="petal" d="M43.2 11.743a16.938 16.938 0 00.126 11.569 11.457 11.457 0 005.511 5.931 3.033 3.033 0 002.488-.072 11.924 11.924 0 006.315-9.528c.739-7.609-2.76-13.609-7.574-19.629A32.468 32.468 0 0043.2 11.743z" id="path59" opacity=".65" fill="url(#linearGradient919)"/></g></svg>
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/static/images/mobile/copyright/mediawiki-wordmark-en.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="18" viewBox="0 0 120 18">
+	<path id="wordmark.svg" d="M17.732,17.827L17.708,1.011H15.232L8.913,12.157,2.479,1.011H0V17.827h2.87v-11L8.2,15.9H9.538L14.862,6.68l0.023,11.146h2.847Zm15.252-6.342a7.284,7.284,0,0,0-.8-3.471,5.771,5.771,0,0,0-2.222-2.33,6.3,6.3,0,0,0-3.229-.829,6.46,6.46,0,0,0-3.286.841,5.942,5.942,0,0,0-2.28,2.342,6.912,6.912,0,0,0-.822,3.375,6.807,6.807,0,0,0,.845,3.4,5.928,5.928,0,0,0,2.4,2.342,7.406,7.406,0,0,0,3.587.841,7.42,7.42,0,0,0,2.87-.529A5.232,5.232,0,0,0,32.15,15.9L30.6,14.055a4.421,4.421,0,0,1-3.356,1.393,4.251,4.251,0,0,1-2.673-.829,3.508,3.508,0,0,1-1.331-2.246h9.7q0.046-.576.046-0.889h0ZM26.735,7.257a3.374,3.374,0,0,1,2.361.865,3.587,3.587,0,0,1,1.134,2.258H23.217a3.628,3.628,0,0,1,1.169-2.27,3.413,3.413,0,0,1,2.349-.853h0ZM44.51,0V6.584a4.527,4.527,0,0,0-1.736-1.3,5.689,5.689,0,0,0-2.245-.432,6.326,6.326,0,0,0-3.206.817A5.787,5.787,0,0,0,35.09,7.978a7.074,7.074,0,0,0-.81,3.435,7.143,7.143,0,0,0,.81,3.447,5.764,5.764,0,0,0,2.233,2.318,6.322,6.322,0,0,0,3.206.817,5.8,5.8,0,0,0,2.326-.456,4.49,4.49,0,0,0,1.77-1.369v1.657H47.4V0H44.51ZM40.876,15.424A3.613,3.613,0,0,1,39,14.932a3.5,3.5,0,0,1-1.319-1.405,4.431,4.431,0,0,1-.486-2.114A4.432,4.432,0,0,1,37.682,9.3,3.5,3.5,0,0,1,39,7.894a3.815,3.815,0,0,1,3.749,0A3.5,3.5,0,0,1,44.07,9.3a4.432,4.432,0,0,1,.486,2.114,4.431,4.431,0,0,1-.486,2.114,3.5,3.5,0,0,1-1.319,1.405,3.613,3.613,0,0,1-1.875.492h0Zm9.86,2.4h2.893V5H50.735V17.827ZM61.682,4.855a10.05,10.05,0,0,0-2.893.408A6.924,6.924,0,0,0,56.452,6.44l1.134,2.186a4.984,4.984,0,0,1,1.7-.937,6.429,6.429,0,0,1,2.048-.336,3.273,3.273,0,0,1,2.3.721,2.683,2.683,0,0,1,.775,2.066v0.192H61.22a5.983,5.983,0,0,0-3.9,1.045,3.449,3.449,0,0,0-1.238,2.774,3.567,3.567,0,0,0,.567,1.982A3.786,3.786,0,0,0,58.257,17.5a5.634,5.634,0,0,0,2.43.492,5.738,5.738,0,0,0,2.372-.444,3.4,3.4,0,0,0,1.516-1.285v1.561h2.731V10.308a5.359,5.359,0,0,0-1.447-4.1,5.885,5.885,0,0,0-4.178-1.357h0ZM61.289,15.809a2.787,2.787,0,0,1-1.736-.48,1.55,1.55,0,0,1-.625-1.3q0-1.705,2.5-1.706h2.986v1.489a2.787,2.787,0,0,1-1.192,1.477,3.629,3.629,0,0,1-1.933.516h0Zm30.343-14.8L87.489,13.863l-4.1-12.852H80.615l-4.189,12.78L72.4,1.011H69.274l5.37,16.815H77.86L81.934,5.383l4,12.443h3.194L94.5,1.011h-2.87Zm4.7,16.815h2.893V5H96.33V17.827Zm15.553,0H115.4l-5.647-7.447L114.915,5h-3.472l-5.994,5.765V0h-2.893V17.827h2.893V14.44l2.152-2.114Zm4.814,0h2.893V5H116.7V17.827ZM52.194,3.294A1.861,1.861,0,0,0,53.524,2.8a1.6,1.6,0,0,0,.521-1.212A1.409,1.409,0,0,0,53.513.466,1.982,1.982,0,0,0,52.194.018a1.923,1.923,0,0,0-1.319.47,1.494,1.494,0,0,0-.532,1.168,1.493,1.493,0,0,0,.532,1.168,1.921,1.921,0,0,0,1.319.47h0Zm45.595,0A1.862,1.862,0,0,0,99.119,2.8,1.6,1.6,0,0,0,99.64,1.59,1.409,1.409,0,0,0,99.107.466,1.982,1.982,0,0,0,97.788.018a1.923,1.923,0,0,0-1.319.47,1.494,1.494,0,0,0-.532,1.168,1.493,1.493,0,0,0,.532,1.168,1.921,1.921,0,0,0,1.319.47h0Zm20.367,0a1.861,1.861,0,0,0,1.331-.491,1.6,1.6,0,0,0,.521-1.212,1.409,1.409,0,0,0-.533-1.125,1.982,1.982,0,0,0-1.319-.448,1.92,1.92,0,0,0-1.319.47,1.5,1.5,0,0,0-.533,1.168,1.494,1.494,0,0,0,.533,1.168,1.918,1.918,0,0,0,1.319.47h0Z"/>
+</svg>
+
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/static/images/footer/wikimedia-button.png
+
+PNG
+
+   
+IHDR   °   >   
+ö   bKGD ÿ ÿ ÿ ½§  kIDATxì$IÇóûζ>ÛVø.|fpom۶kïØVs´ޝéîYLÛæ¨Þի¸ÉCWוñkd½ügǫßVýÉåòûjkkÇ444Ôð8êëëÃuuuQþxäüåZÝCÕjõècǎÝËCþ˿¾TUUÝÊOXu:]Ðáp@$ÎÎNà8î²Á` sè:¨Õj¼ÔaÞ˕·ðnè¥Rù_p7ÅX¯*ÑhÂjµú¬B¡x L&{7ÜÊÿu±f]Í0Ìfs/±?[x|áÏw/\¸ÐÞÕÕW;ƹsçÚT*U>pþ?úñ5çZÑÑÑjµ:(É>%¼Å&c¹`FN.Ƌ7[0ī¾kÍnÆcÇ@£ÓѻDR#L&³êêêööv&Æ5BIEÌ[º²jÃZr}@g+++Ûñ"»ìG"`oh CI	XJú|}ËHڱÔõõàt¹ Y§˗CvA${QQQÁÞâÁ
+'Õ}"hµlØ0Øq÷ݐD%õ[ ôÛocÑôÁp¹Ýÿú¾!)	ö<(É^q¤¼¼»ÙaïOPiÅØ~çp.+«,^³¨êê u÷nX¸bìܷO}(--åZ|©òëõ°ç±ÇPÒ^I½õV°ªÕ	²ږX¶f
+ä×ëͩ©¸¤¤#hñ%?Ôÿ=ÊÙg¿ô´Çb}ÉƓyI±nË8Öý
+,|EEE)..æ.å"³o¸Åìòr<ƚMõF#;y¬^-H|òôiÉ������#hñ`ôN_ÂmºýûQÈ~S7}zÂLÛ/YÏh4°vófD¸¥WT·ÒðBr½(((àZ<Cõ-pۈm°SÙ,ºýèòå¸â×_Eó:3Ü3f,-<zÅØÖÖƸäççs_PzZ·O2$	n;Mq5'7nÀ5CÆeɵ&WXï$ÁæÊSށÜÜ\äåå
+Hà«î·e¢Il¨ªÀ'6lH$/åơ)PÙdèdäääp-îïÄH4ï.ÉDâxxÂ.°xü´6ÀÞ'염ø`Ã×ÚJ3á(¼³X|½Ç'í7ÐãïÅbëììlàK'®+;!*ÓãvÂ	½=®þLjj¿Vÿ(}Ptݡ{j$¸ÉÊÊêÀN_î»3N¢¥@U³h]ÀªÖSô{Åï¿÷Iެ>°ßøÖó w[iÖâ;mé>u9zÁ&±ÈÈÈÈàZܟIEóshM ß3ÀÛÉC!§I!E#¨1Rn¾Y\ÞÿýÊùBPԤOw¯öN«ÏI³×ëD×ÿ9¥<áonÒh`äñ¦MÀWS[_Gk²rsEs,[Jkªå2alÎÂ0~êT³Å"B!Z7bü8á¿þE£QJcSfÍËE·M=f9Nçm´~æüyà¤õÿÆçóÁü¥Kh­ÁhÄq̡X¶z5ÍY¿eswe̤ÂÚë6o²
+ðù}qëÌ&7ï	kÑÜQ|Lf3´´4¤§§s}
+Gð3Nçg@(,ÔD¢P¼	ÞL"gÓǙ3Èy_~	i¯¿ÙòѣlRњ#F
+ÊK3~LޠnÿzßíuxÛH·uïòËÌ
+7ÌÌTLØpzw5WïÓzù;CóÅü̙3G#ùõèÌHóÆßYvÚ÷óW¯ÿ}åe$븧.ë9¸cöiëèõøÕէý9üæÒ>>1{(K­>úWöºÆìR/>$ëæææ¶¥åeÊRç®\V z÷Ýw¿ßØø8uġ¼®N]8/cyøoèäí·DK[©ì۸­à±)Tb%¤¤l̌]b«
+î´¢´ú~éó°¿NçbçRà
+©ÏÒgde4¥^ù-N㖔Û#Ðʺֶ6åÀ>xo×> $D֥d¤cs	` »|㺴EÄÄàë2¾û}C_<tPWV*jhjtpRjª¨©«%%"9=ãf««§Û%c~¾räX\\ÜÀéééºÅV¼_¦@óǒĻÏæêÿ=|à¬Cl^ô«ÑÄÄâôý¿{J_~ýÆmg±C8 5֔ûúñc´¡Ӝxþ+ØùKªà*$%²üæÉ¹ѽ¼<ÊòÙÙYi#>¶õdÉIwÌu¤B¡¡摛&uÆöÆÌ +qWū¯ýqÄýü<|\Vjjª®¥¥¥éVüàiuàôjY·»Jçâܮ
+±&zÅoÆ^·½u¦ô®èRúÂE5§ýOËÊ4bÁÛÀАxîÕW$ä­62ctÂ'37GÚüÍ1X7ÚS{Gü °­Îî.ü<lKK¥^>rXƉN7°¥ßèؘ#§heuÕÀs?{úz­ Lî,ëâ£ÄÐð°2X¸
+pJJ®A±çÅU Q×6"}^Ë´uõK¯ü¾Z»ØíSâ·cnØö¯RNÉ6csKӈ¢®1gûɛ,`¢c	"ccĝ÷eùäùsÉÑ!¤흝®ÌdMþϦnlnКUR^&rq°sZ]¸vUú<*.²ðKe}k{Àvùæ
+i«¨®ràääd]b+Î}
+, 4¿¼F½>¬߈9h
+sì˥	Ø-©V*¾çDҧВê*(<L´àp»qdtT,--ÉS
+TN®|À&íç?*°³¥ggá»ó «>¤0 ¦R=½½²î­S§X¥ÁNþmbsIº¤[qN®éU`ù·dýÐÜYØÛ%õ×Ëv¿çsWéөZꜪ»·ÇћHn'}2srú*ñ Ø
+6 5·cÆÎÈoÉ7Ñ,3À333ØmíRåÈMql¶øýÈéñEf8+««±)zãä	éØFÇF'ëB""D_¿@]]vûÜÕÝíÀ			ºÅVÃJ;X~ì\º¬¯íÚSZe»+Pút8¥rÃ}¹xí
+F_ÞHY???/»Lo
+`n
+àå`¹6ÊÈÉÞÀ䌤;,÷Q¶0ñk ÿãõ f[î×b^âÀñññºÅVÚX~æR¦¬/jÞ£ïËvÿU¨ô饄²
+÷¥¼Jºoⓔföa}Ó cZӛÏ$q³ +ÚaÙ'R
+ó$џºu.(*4/½±ƮÈ<f^bุ8]ㅃ²¢ËÕYÿNõm!üÏì«v±/Ä[nÓY.ÛýuP¾ҧ×Ӫ6ÚÞ®Ù,)iãçKýpuK?t,agÔäM7Ò9ÊXf§mo!cÃÙ~&ÇFóæíӧ¾pAÆ0̲#õ¤ÊđC®ÏÚ) ÛìLe
+VVê¨ߌ¼Ò'>9	%ÅÄÄèZll¬%³ûX¾üP´q@ÖO.Ìî
+Àí²Ý/^ÍVútén°´?·oËI»QÞ2S>Û4AÂcv`UriNؙ{3	ûÿz s¡C¹`á¨ßÍ--ÒïU#uc-
+ªÑѺÅVÛFg DQßԜôùëÔS;
+ð¯Dó+K6kÆùնûMJ©鵴óZ¹ÐÙÝíԇU|úúUTKIÅÈvLӭM¬J(£»©ÞÊË½íÔ-͉¸CúÙ`!ñÖSIYÁ2!íÕֈa!g ö]Æã`íÛÚÛµ#ÇRÄ#T±o¨¨¨(]ãŊóòê*_R(í>^©6Ƕ
+ðû~²MUß8ÛWÔ2òzö"""t-22R·Úà7oÞVùà|Yß:Ñ/~>ü¥8·³\¶9Uãðfúµ5ê=Ú
+×5(¶ÚàzoÇf¤ÏÉø߲.iÚ<|ç±$¥/ÿ^@½GûD¡¡¡º¦XQ׸ã»ÀÞʨ>3cê9`s\ ÞðòÁéY¦®I£Ìú>ê÷,r¯3y2åý¦]bWý¶×r㎱iéS:Ð,~1òåm8¦ñôYXßö¶zOò7½ WðÙ7ªkh<bµ¡©i_¬kPìJ£»͎¿A~¼¼²*ýó9·ðåÒx¾A!}-q¸ýKwë©ßWJJ¸õr[ãr[(£»»ï`` ®I9YÑ/;ùðár;¿âþFw°Ùïbqâóˑ¯äGv~-N¿<=¿ϞÀp#Ñ6Åã"Zχß`S¶ÉÒ×̀ iwgݺuKנØՆ½c|Ò!Lgskí|§ægWE
+k¸ fÔ>W-g'ì|ª»yÃmÆVtºՁe
+öº-ҳ³e¾jSd\æc½g+ÞÞân^0s¡KÍ"8"8ԋ@gkÏ6u¬ÝJS¢äÜc¸<kÞ.ÈæÑTÒÖŇGGW@ 6ÙYå® èo¦ññÌjàq¨IebiyÅοzTÖåθàà¿H>è¢e¼Oٖ_A³ÓÌ_åáãv AHd$Ï.ÆU?ߠ l¢º®NúõA  _Xl"9#:þJ¸Jn6Kàظۍ2?5 ¼ٖ¨ª­Ն Xé><W6Øó=âCÁÃ¹rGßøPQ/
+KKEqY·ØÏÏO×üýý70þ:¡úµ빢a`ÒñémyQÎNÉ143!æuõM̈¿yètß*ELÎÍãëVâÔ
+9÷îIÐßUþÇFY\¼qCØùqÇíab²Qrk{»2ÀQæÛ÷âbk~êÜ<²íIøÿ΃ø<e·¯¯¯®Añf ÏÏ^Êt
+ß~.¶X´O¹whjNˬ_v0Úiìo~3^´<ÆO ±wõôØ æ'ö99M¥6ÈÀéOÛ1K1ÛFT&{æª½°®AñVLω¹èbô¹/E_7Fäk÷DYר2jÎ°¾qPÐ"þ,à¾|` 3}1ik í^X.{qê·Á§´'}¸ìåÅȨÔáïä`~+{ìÅSɵñ']ù¬ ØÛÛ[נx«¦æÄËo	[ÓWáf$/XÑO_ÌÝãÓÛy  e[E ÙwïÚÙS³²°s÷e æWöEEt³å-OI¡,nnm¥É[¶U	 "e.|ìewÖ͛7uÍËËKßz0r¨eqùn1zʕm£øKñ%Æh½àîVȲ4rÒÆi[1>ëÌ-^·nñ[¬DÞþ~Q×ØÈdÕ"¯uðäÔOlgåCWU±:J#³¨¨®Ƈô6¬~ОØÔñzQd¤ԗVTp÷w¹íq¾qㆮAñvm¿ïsg[áý©¢°}ȽÁUVÄÌäi#1V1Ì홀ÉQYñSr)Ì&âH+¨'5Ⱦs\ÙVÏÿLò¨çVFú%ëø¹ëq¾~ýº®ñ²K;Yâ"Ýôû[Æս̺^Fw9SÞRÞ|Ïzûú	YUüXeÔtØÈ_iÏI
+`®'÷e;M--f; ֜3£؀J\&|ÛDiÙ.v¸£®^½ªk׮]Ówr##gEpaøÐ|ãYºÐòÔK&q74®ÑÇj¼½09ðNnG.·1SÞoºr劮AñnntbæFgÛÐ'ß: ¦f¬Çñ Ì(IËvÜíK/]º¤kÅs0ӹEÉõV ¦¼buÓß_äÈmì+1H ðGä3ÃÃÃÛÜ#rU&[C;{\Y۷Çxhhx"µ¸¸øSxí%~jÀÉÚùóçÛX~Âiϭ;íÕ=z&X52'§NúMÍx!Î3~ìå£=Ðy<âÇ]>¼|ùò}CÆˉ'¾áãEEE=rg:|dd
+c¾ސ¦ñ;öÄñ±±ÉyÄ*ÕgZ###<çݳgÏYÃwÒ/6ò;wÎÏpz7..îIyy9³=1»«õÈ#0³vúôiàõ>tèÐÒlâEÑñãǿÆH+3.0ÍåO	<ÚE}ræ̙yc@-xÆâWҐYÿÐm²ôÆ{ù    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.mediawiki.org/static/images/footer/poweredby_mediawiki_88x31.png
+
+PNG
+
+   
+IHDR   °   >   ¼ÓaÄ   PLTEGpL£££···¨¨¨ÌÌ̯¯¯ÛÛۏ±±±ÁÁi©©ÇÇÇÅÅńËËËÉÉÉ|||¼¼¼ÅÅŐ{{{ÆÆÆÊÊʂÆÆƾ¾¾¿¿¿¿¿¿ÑÑÑìììõõõúúúôôô   óóóñññòòòùùùÜÜÜëëëÝÝݾ¾¾üYU222ü_U			FFF&&&üvVrrrýVaaaýW²²²®Tý|VÑUtþ°W½SýVìT_­­­¸Tý¢Wþ«WýVÂT~ÌTw???PPP³Sééé[[[gggüUýVÿYØØØnnn···ÙVpzzzþ9íí햖þÀXý§U¨TÙRjäXjæRaÇSxÕÕÕÊÊÊàReþµWýVÞVkÓRo¶R888ÇU|êXfKKK¡T¾VþºWûdU---VVVãããùWZÿw!Ï@Û :ýpXª \¡¡¡ç×à謶ÁÁÁàààú§þ#ó'ýY@ÁKÎÎΥ¥¥wwwëâçÖ»øÑÁþXç½ÈñDLº=mù!%¾/^ýԕüróÄÄû·ÙiýFüjüjUúÝ=TýrDþ|8   ÷³±öóðúĳÿ~þ7ý|MÔCaýGûNNË9]þqÝÇ×ý·qüóéԷÎõÜÚӨ¿|¦ÜvôèæõÓÑûcI㙨ô:@þi!òU\ÉHm¿eþ©}ûãÞýbùîìô¡ýJþ+¦5sö.4þB,óryþn7ÀItûêØúçÎüíÐüܥýÊyԡ»­eü½jîËÑþ¢=±AxþN8¶_þ̆Έ¦üùõøõõø´gñêìØ^xÐ|ý¤Góïïýýý÷÷÷þþþý¬_øøøåååðððöööüٰûÝÄýûùûȘîîîúïßêêêûûûÿÿÿïïïüüüþ¥WÆÆÆ~ҵ0   $tRNS ïíèìþòìñòûçèòíòÂòøLðÙóí$SuâU7ĈþqTì  ×IDATxÚ՘	\WÀÓnÙnía­­öÞ#B¾ÉL03&æ"DQÄ$XCD©¢¬
+T<zpÈa=ð¾ïû¨õ¾oëQëÕûnm·Ý]ÓÆàq£Ùｄ! VZìþþæ}ï{oüþyy3ABy¶q³¦Mÿò;òD=ñ4}j?ÑÈyá¿
+ÁÏw£Rúxò³ÏIõ¨Û`¸6PktáçÿìOPãÆ҆õ½p÷T<þ7ÜÛëQ·¹Ø¸Ñm§ݸzùÂë¸ÄÍ\u_ñµnþrMª/7îFÿ(o\¨y¶æΝon¹B£o?ÕmxL<Zgݣ¦í»/½Ôùæ¥7ÎÏ1â÷w3ɣu®yyÐôøç/·}ٺuKû×GØúU¾~w°OÕ-|¥ìebüî»¨ñÕ-]ڣñAuæ~®«î¼6ĸûÙmñº]ñ¥ßÉDéñ¶r[Ú-WWV--[s4ìúâ6h<}y
+ÄxÝÚÎÔxîõó];÷#ñ)%<¢ɞü«ÃQ«¼m$Ý*ĉV­[[¶x,1^Þãl<õ5þvîWÄuSaæÁvWܹ°ó~ÉSA÷üªVÄxÉé	hÂ=ºÇwذiÔ+hÜç䗸QùZ%DâѤôÎÎÝëk4Fáõññ+P¯¼ãÿݞF2¡Դy*ÂÂìVIIɑkD
+[Si)JæHWrkǡVycæ6ǹ¬á4Ñ(ÀýHmÂÇߤÆzõ"kÂÓãW\W޺ñãûtiÿúë#>!0@¦ uçÐè1:<@§ôÐzx^¢Ǿî"Ç1f 0ð^aGDæbßb/²H"R"aú×øt¯^KƶÙ×ïëƷm»híZ¼Wã9>áP(Ã5|HG%(9¤q\¹ ­ä8³ÖU¡â£ì-³Խ¹Ð[R
+^%åj#Ç%¥´4ü+,D´`2göu¼³Æ
+ßÏ¶ê5nExlÅ/t,¯¼£Æã>&Æׂu¶¨DdsHËê0WÀqz3r¼£ùI°#8¢)¥_IK«·;¸%)ñ¨¬á¤7
+Jo/Þ{fhÇS§fRãÓ_/»øøö²ǧ¡ñ¨xáuîóåÉ/?ÿü¹·
+ø·#Z:Þª68&AIѡ0F"Ñ$ Ғ®é¨$N"^ãp´"HX仫çàÁýùÖ[³ß!»biYÙQ:¶`Í<òY4~üÉ>¸+ðÊûØá²=kF:èMYPáÂS5öL­;B09,C𠰔ñ1Q ÌQaú!#WA¢DqϞûïqpՃð~¼níÚñïuiO_½ é̐FWHípDAHN~©qzÃ6Å'lXo7ìZe§Hi7ǮL£)¥]DG$e[µúáûÀcÇ:,5jü{7ûPã¹±°PÉx,³ÝÎò٤*RìötÈ%ìݎÂ`ö+}ݞ¦õ[ðGµ@cÈøètWtì8óÀÒ=ߋ§¿|lÃ"ºQùóÕÕ(싘,¡<*Eͧalu¨ݞ
+Bv"!7.΢M÷	·Ðk£
+u!Þ/ùW`l⡨¦ðcęb¿ñ¡ö æáO7bÂäÆ*<t»¤td©j }w<³ç)Q=We®ª"D#ÊC;:µ«BL%ïòö²eñÞ`ácp/Z´è½>ìÁTP<R&мJQ_^5¯·©¯oÊ+n+\1c×ÆѣG³lèÐíÁEא§ô&rá]½Vñ{$(j¦L(,Jû×		7ãþ»+jaڊ6Z»¢ËÕտ©^hMò´栜é>±ðá]ßx#!:ºg¿~ûQQºwßPµ·|p²õÇyQVðcÕ>í4'Ðooh0«§wÇUƿ|ڰPáê3îq41Þlñ 1y޲ûÎKUE¡rK¶ôVsdH¢!N&ө¢d^äT懡+pÔxÀáßþ©V5뗟]¾Ák|uuU¶Ԧª8Reµ L " j´&-øT2
+erJ¬ӟp`Vï82<vVFÆĉ̐ÖíÄ}<ïruZ	ìë®Ôé=)´tÞ9(¡I	×éKÄÂ÷ÊDüøé¬üC¢{Öb¼_AðÁøi¬L$¬mé
+
+·®£rҚ¶
+ )CÑÀJ¦V.¢°LDè#bcqW$DÙT5´
+}1]¿¾{üX,4"Ì0®¢ì,ãdAJuY«
+b&טÎ0Êu*Cf8D
+N´0DÐ3Lª±¨JØf4ÚðO°)HÙ٭S§á]»[E1Äâ%Ԙ\ykÒDX «Ãæ ©¸ ä:ƣD­!ÂD1!T-&
+^ 3
+I£°R£¸+,6ÚѮ×øܜ9÷Éæ/yzÂqí"a31X	z6:Qɣd=ðÉ+-T	+xsJ a*µÈ0I`µôlTeQ-á!ÛŲ(ÌV$<¥o_j;'#cNBôO?Îoݺu¯^½öù籁ÂiZ(a\zѡ°B %þ÷! vO¡ÃDfYfٖ,buͲzBW%Îæݘò	{xÈ2±·f§óçççÏ»b[|)þ¢Æ|ÆÓüC(ÌFµ²°b2[(<L#nÞ/̖*£¢, §C|6ÊÙHÈeýÂåjД²µ	ÿ
+tú5~??V׮^¸ka1ùÏÞ3gèKӾÓUk<O,ÇC¡lT8ª2%¨ª{G
+Pa+@\*Y6räjXék råÕäÕÆE·mÇԝï»¢k×Y7FéùEqÿóOt<tèÔìwÐxä¾	û­¶ÙLÐâ7LSp{±FN.Ga9>.sAO²9`ɂ"¹\{'3(L&CôKQaE0è1îcò 9w··û
+øÚ2üA`¶×xä=r§S 
+ËåáÒIÅdy:@	ɛärüÖ٠J82±é.5¥¨@yµ°^Q"9xüYû3ºcó3È>Þ8º-ó¾4½5û÷Ïne8+HX¾T Âr¨S¬ÒTU^ÊCÍZ¨6;åPÉw¢×3Ì á"§3 ÐéDag5µ#û¸[·¯òóÏáÒýú-CÐWi\âŵ
+;[V	§iât®h¤§) ¸ÕèI L"
+;j"ìÖo½aç¶aÃÈ¿ÿ>ò£ð*L´¢k¼Û)¢çý±OÅcin¬B°´39/@Þæth@k,âUt¶ç¥4Г==t&c¨ÐóF<%ª°3©ü·nä!=+cb4îãÑcãø!²Æ{·ÇåܕâìÞîZ(­M؍ÂÃ>:înÄxy2zô@j¼wÕ¨Üz¾óq×±°;¨Äæm§`óÏvÄø\ƹ	dûQãn·kÏüUÛÝ÷*ËÛìlGgá$!onԸØ?¥!pդåÒæuΞڗïø.GÏØEçקný)}ºna×6¼ò¾ÙæÞKºzï'ÆS\÷Þ(\Pçèa}wÃïþ;b<ÃårÏXØoWÃ;°>,ɬ¬sîÔÍ^ñ#±±ßÑ(¼¸¸^uëOzII·-¶yø)¾²øïòäûn;˵mÜ=µláÇóD򴵡êÖ[Dòdóõ(۠¤=ðy¾y^?:ᄴP:½¡êÖíAâKyòÅæ6©¢坢hx¬é!6!ûoü|øÕ<Ø`¼Øäîÿ /³40q&    IEND®B`
+------MultipartBoundary--F4dxZPPM7ZevlEtVX3YO8BfwScdeutIeQnfs9f6UDu------
